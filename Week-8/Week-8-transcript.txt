@@ -1,0 +1,1164 @@
+Week 8 Lecture 1
+
+
+hi friends so in the last lecture we discussed about the emotions in the heart rate and
+following the same we will today discuss the emotions in another very interesting physiological signal that is the skin conductance
+so skin conductance is also refers to as the emotional sweating for the reasons
+that we will discuss now so whenever we are emotionally aroused you may have observed also that the electrical
+conductivity of skin it certainly changes and in response to the positive as well as the negative stimulus and one example
+that you may have seen is uh trying to recall a fact in front of an audience when you are giving some very important presentation right so when you are not
+able to recall that you are feeling very aroused very stressed very anxious and then suddenly you may have seen you are sweating suddenly you are sweating right
+but nevertheless even if the amount of sweating is not so much or is not so
+high then also we can observe the subtle changes in the electrical conductivity of the skin and that is what is known as
+the skin conductance or Alternatives also referred to as the electrodermal activity or galvanic skin response so
+this GSR Eda or the SC is a robust non-invasive way to measure this kind of activation and which is definitely
+caused by the amount of the sweat in a person's sweat gland for the reasons that we discussed it could be because of
+the positive or the negative stimuli which is making you anxious which is making you aroused right and as I said
+before most important thing is that you need not to have a kind of sweating which is very very visible right it's not like you will be getting wet
+entirely right so it can be very very subtle it may not be very visible on the skin but it causes subtle changes in the
+electrical conductivity which can be captured by the GSR sensors so GSR was first used I believe
+1980s or 70s by by a researcher named car Zhang uh in to identify the negative
+complexes in the word association tips so some of you you may know about the word association test so basically the word association test is a very popular
+psychological test in which what happens that you are shown a series of words a
+positive or the negative words for a duration of 15 seconds on a screen and you are asked to respond with the very
+first word that comes spontaneously in your mind or in in your in your in your thoughts right so for example maybe ah I
+I asked you a word I as as baby so maybe the first word that comes out with cute and then so on so forth you got the idea side so for example I I say a word knife
+so the very first word that maybe uh comes to your mind maybe kitchen I don't know different individuals may come up
+with a different sort of words and that is what is known as the word association is so basically Carl Zang what is showed with the help of the galvanic skin
+response signals that when the individuals were coming up with the negative words right
+in in response to the this word association tests in response to this word association and that was sort of getting captured or getting highlighted
+by the galvanic skin response of those individuals or of those instances so this was the very first sighting of the galvanic skin response and its use and
+since for henceforth you know the GSR has been regarded as one of the most popular method for investigating humans
+psychophysiological phenomena right and you may be knowing also that GSR is a key component in so-called or very very
+popular lie detector tests so you may have seen in the movies or in the series that many times the law enforcement
+agencies they use this lie detector tests and one of the primary components of those light detector tests are this galvanic skin response sensors
+nevertheless we will not be talking about that but for the invest interested audience I would definitely request you to please go ahead and investigate more
+about it now let us try to discuss and understand how can we measure the GSR signals so it turns out that the
+measurement for the GSR signals is quite easy as it can be measured anywhere on the body and the reason it can be
+measured anywhere on the body because we try to capture the electrical conductance or the electrical activity of the skin and of course the skin
+constitutes the largest organ of our body so it's all over our body right but of course and nevertheless there are
+certain areas of the of our body which are emotionally more which have emotionally more reactive sweat glands and and for the same reason
+we try to concentrate on those areas when we are capturing the galvanic skin response signals and these areas are
+primarily the palms of the hands and the soles of the field so basically the soles of the fit and of course the palm of the hands as you can see in the this
+diagram ah the escapement diagram that you can get this use the sperms of the hands and then you may have observed
+that while sweating also these are the areas where usually you sweat a lot right so for example this particular
+graph that you are looking at in the screen it shows you a schematic of the GSR sensor so it's a very very easy
+schematics so here basically what you have you have simply through a voltage supplier a constant very small amount of
+voltage is passed through the GSR electrodes so basically these are the two electrodes that you can see and then the difference across these GSR
+electrodes in terms of the voltage is measured and that is what is constituted as the GSR signal of the human body now
+there are different types of sensors that are available in the market so for example if you look at this particular diagram then this is the Shimmer GSR
+plus sensor and you can see that it also has the same based on this schematics it also has two sensors so for example this
+is one sorry electrode this is another electrode and of course then there is a this device which sort of is responsible
+for producing this constant supply of the voltage and at the same time it it has this Bluetooth
+chip inside it which transfers the signal wirelessly from the participant or from the human's hand to the whatever
+device where you are capturing the data so that is for example one popular device another for example sort of popular device is the E4 wristband so
+this is the E4 wristband by the impatica industry in particular startups so basically as you
+can see again here you can these two electrodes are very well visible you can see and more or less the idea is the same so basically you know you wear it
+as a wrist watch so basically these two electrodes they get attached here and then from here also you try to get the uh the the GSR signal so as you can see
+so for example in this you can you are getting this from the fingers in this you are getting it below beneath the
+palm and and so on and and of course there are other sensors which are available from which you can you you can attach Those sensors at the soles of the
+fit and then you can get the GSR signal from there so as I said as we said before that it is quite easy to measure as it can be
+measured anywhere on the body right so then now you have let us look at that what is the nature what what is
+the nature of the GSR signal look like so for example you can see a very nice GSR response time diagram on the below
+so basically what it turns out that always uh from the onset of the stimulus there is a latency there is a delay ah
+with which the response in the GSR signal occurs right and usually this delay for example this latency can be
+two to four ah seconds so what it means that it may take up to two seconds for the GSR signal to start
+reflecting the response ah from the onset of the stimuli so imagine that you were presented with an image of in an
+image or a video or any stimuli for that matter and then it may take up to let's say two seconds three seconds or even four seconds for the GSR signal response
+to occur uh in response to the the video or the image that you just saw or you are just seeing right so that is what is
+the typical delay now of course the range for this the amplitude of this GSR signal basically this part it it's it
+varies between 2 to 20 micro Siemens so we basically micro Siemens is the position of the voltage you can capture you can convert it into the voltage as
+well and then and for the individual in individuals it may vary between the one to three seconds so basically you know two to twenty micro second Siemens is
+the typical range and then it may vary one to three microseconds more Siemens more so so for the different individuals depending upon the individual
+variability so this is the typical range of the GSR signal now if you look at the
+GSR signal ah rise response time here response here then you will notice that there is a particular rise time ah which
+the signal takes to reach to its peak value and then there is a recovery time which is the time that the signal takes
+from its peak to coming to an offset or coming to the let us say within 10 percent of the ah within ten percent of
+the uh gsrs amplitude so the typical rise time is always higher than the recovery time so
+basically it takes one to three seconds here it takes sorry one two three seconds uh for the rising of the GSR
+signal that is it takes around one to three seconds for the GSR signal to rise from the Baseline to the to its peak
+value and then it takes another 2 to 10 seconds anywhere between 2 to 10 seconds to go down to the Baseline value from
+the from its peak value right so that is how it typically responds and it turns out that the the
+GSR signal is usually sampled at a very very low frequency such as between 1 to 10 Hertz so usually 10 Hertz is is
+pretty common to have so we do not sample it at a higher frequency because it is not as responsive and it's not a
+very very fast signal it turns out right so that is what the response time of the GSR signal looks like and then usually
+it is all known as the very slow responsive signal so it is a very slow responsive
+signal right perfect so having understood the gsr's signals response time ah let us try to look at that what are the different types of components in
+the GSR signal so the GSR signal typically it is it consists of two components one is known as the skin
+conductance response scr and another is known as known as the skin conductance level so basically the skin conductance
+response is the phasic or rapid component of the GSR signal what it
+means that in response to an ah in response to an external event which could be any stimulus the skin
+conductance sorry the skin conductance signal or the GSR signal has a phasic or rapid component which increases
+in its amplitude temporarily so for example if you can see this is the typical these are the GSR Peaks and this is overall GSR signal but if you look at
+these these signals for example these are the amplitudes which are raising much temporarily and much frequently
+also so for example if you look at the overall shape of the GSR signal then in comparison to this overall shape of the
+GSR signal there are temporarily and sudden rises in the amplitude of the GSR signal which is known as the phasic skin
+conductance response and usually this phasic skin conductance response it is an reaction to an external event it of
+course it may occur in essence of the emotional external event as well but what we are interested in we are interested in when it is occurring in
+response to some event and and many times when we are doing the analysis of the GSR signal we are more interested in the analysis of the scr
+signals and and it turns out of course the way we have the phasing or the rapid component of the GSR signal in the same
+way we have a tonic or is also known as the slow component of the GSR signal which is known as the skin conductance
+level or scl so basically the skin conductance level or the scl component of the GSR signal it changes due to the
+general arousal level or general stress right so basically as you can see ah the chain so for example while analyzing
+this CL these this is what the scl looks like as I said before this is what is the scl component looks like so if you look at the entire pattern of the sale
+signal the changes are not mini right I mean so in the same period for example in the same period maybe you saw that one two
+three four five six maybe there were like uh the amplitude of the scr component increased seven times but then
+in the same time period the amplitude was there was uh more or less no changes in the amplitude of the scl signal but
+then with the time the amplitude of the scl signal it changed a lot significantly over a period of time and
+then then sort of sorts of became steady over there right so basically this is representing the general arousal level
+or the general stress level of an individual rather than the response of the individual to an external event right so this is very important to
+understand that when we want to observe the response of an individual to an external event to a stimuli to a
+image to a video to a music that we are showing ah we have to look at the scr component of the signal but when we want
+to understand how what is the general level General arousal level or the general stress level of the individual then then maybe we want to look at the
+tonic component which is the scl component right not so hard to understand of course more importantly we will have to
+understand that how to differentiate between these two we will come back to the in a minute so as I said to study event related scrs what we want
+to do ah these are these are known so scrs usually they occur as I said when they occur in response to an external event they are known as the event
+related scrs right so basically to understand this event related scrs or to end to analyze these event related scrs
+this is really important for us to display the stimulus for a long enough duration because even if it occurs frequently but
+what happens that if you are going to show it only for a let's say very very small time one second two seconds then you already know that the response time
+of the GSR signal itself is a bit uh is a slow responsive signal so there is a latency from the stimulus onset to the
+appearance of the GSR signal and then of course it takes certain time to go to the peak and then it takes certain time to come to the Baseline and and for the
+same reason what you want to have you want to also have a similar inter stimulus interval durations what it means that you may want to present let's
+say an image for 10 seconds and in order to and and then you want to analyze the effects of ah that image uh
+on the GSR signal and then maybe you want to take a gap of 10 seconds before even presenting the another image for 10 seconds again right why you
+want to do this because of course if you are not going to maintain proper gap between the presentation of two stimulus two stimuli component then there could
+be an overlap in the response of the stimuli right so again I will just make your life easier here so for example this is an this is the let us say first
+two second you presented one image then you may want to keep a gap of let's say another 10 seconds and then this becomes
+20 here ah and then and then again you want to present and you may want to present another image and that is how you
+analyze else what will happen that the response of this particular thing is going to overlap with the response of the next
+image or the next stimulus that you are presenting so you may not want to do that because it is going to give you like multiple responses and an
+overlapping responses perfect so other thing that now and and if you look at this how we observe the
+response of the GSR uh when let's say watching a particular stimulus then this is a very nice example where what you are looking at that this is the GSR
+response GSR signal response when an individual let's say who's who's looking in the image
+is watching some particular images or is watching some particular arousing scenes in a video so sorry for example if you look at this
+particular particular scene then what is happening here that the individual is walking at a very tall height maybe on a
+skyscraper where there is a glass and the individual is able to see from a very top height so basically here it's a very very housing scene and again you can see the
+response again similarly there is a baby which is a cute baby so again there is a arousing response and then you can see again the corresponding facial image
+facial expressions or the response of the individuals in his face and accordingly so for this particular
+component you can see that how you can see there is a peak GSR Peak present for the
+most arousing parts of the these scenes or of these videos and that is how you know we time stamp the of course we have
+a time stamp for the scenes that are getting presented and accordingly we tried to put this time
+stamp or we try to make the signals responses also in sync with the images or the videos that are getting represented and and then we look at we
+observe those responses with respect to the arousing scenes and then we try to see you know such as here that okay when the individual is looking aroused what
+was the corresponding GSR signal and if the jsr signal looks out to be okay with arousing then okay what exactly was the individual looking at that particular
+point of time so this is how we look at the entire setup and this is how we analyze the emotionally arousing scenes
+let's say in a video or for example in any particular stimuli perfect so having understood that how
+the GSR signals respond what are the different components of the GSR signal now there are n number of different features of the GSR signals so uh and
+then these features could be you know since we are talking about a time series signal so GSR signal essentially is a Time series signal right so a Time
+series signal can be analyzed in time domain it can be analyzed in frequency domain it can also be analyzed in the time frequency domain so without going
+too much into the signal processing part uh there are certain for example most important features that are related to
+the skin conductance or the GSR signal is the event related features so basically the event related features are
+the features which are response to an event to responds to an external event so you may have rightly guessed that these are the events that you are
+looking into the mostly the scr right so basically whenever you have nscr you may want to look at the there are multiple scrs
+there can be multiple scrs so for example here you can see when the CR2 AC are here scr and and so on so forth basically there are multiple Peaks that
+may be there so you may want to look at the what is the peak mean Peak amplitude what is the average Peak amplitude similarly you may want to look at the
+what was the sum of all the peak amplitudes similarly you want to count the number of Peaks you want to look at the what is the mean rise time for each
+of them Peaks and so on so forth so it takes a bit of signal processing to extract these features but these are not very hard and it turns out these are very
+very popular signals ah features when we are analyzing the GSR responses similarly another very popular feature
+ah when we are analyzing the GSR signal is in the frequency domain which is very very simply as the band power of the GSR
+signal so basically when we try to analyze the band power of the GSR signal then what we simply do we try to
+identify or understand the band power the spectral band power of the signal in different frequency bands so for example we look at the band power from the 0.5
+Hertz then we look at the what is the band power at one Hertz similarly 1.5 2.5 n and so on so forth so basically we
+create different bands of the signal GSR signal in the frequency domain and of course once we have the spectral power then we try to
+look at OK which is the minimum spectral power which is the maximum spectral power and we can we can look at the what is the variance in the spectral power so basically these are some statistical
+features that we obtain on this band powers that we calculate in the frequency domain again so quite simple
+features to analyze and it turns out that is very very important feature when it comes to the analysis uh in um a
+paper in 2019 our group showed that you know in apart from these features which which are the commonly used let's say
+scr features what the statistical mfcc mfcc features so basically mfcc you may have heard the mill frequency substual
+spectrum ah features so basically the mfcc features these features are very very ah
+important feature and and it at least when we try to analyze the GSR signals and it turns out that they even outperform the commonly used scr
+features so for example without going into too much detail on this particular diagram so basically this diagram is representing the weighted occurrence or
+let us say the weightage of a particular feature for a particular class if you while doing a classification of the arousal so
+here what we wanted to do we wanted to do the classification of
+arousal and while classif doing the classification of the arousal we analyzed the features in the you know we analyzers scr features we analyze the
+time domain features we analyze the band power feature frequency domain features and so on so forth so basically these are the different features that we analyze and then if you look at this
+particular uh bar here what it shows that the weightage of the mfcc statistical
+features were much higher than in comparison to let's say you know all these are CR band power frequency domain features and that is how we concluded
+that statistical mfcc features they outperform the commonly used scr features and then for more details I
+will invite you to please look at this particular interesting paper that our group published in this domain in 2019.
+right perfect so these are the of course some of the features ah when we try to analyze the GSR signal and it takes a
+bit of signal processing uh you need not to worry about that there are different tools which can do this job for you and at the end of this class we will try to
+give you a demo about it so when it turns that you know like there are certain limitations that are associated with the GSR signal as well
+when we try to analyze the the emotions one very commonly ah very common
+limitation across physiological signals is that how can we label the emotions that are associated with the physiological signal or in this case the
+GSR signal the reason that we found it to be challenging because when we are analyzing or monitoring the GSR signals
+or any physiological signal in the wild in real time then what happens that the onset or the offset of the emotion is not known
+precisely right so for example when we are trying to recall the particular fact in front of an audience of course we do
+not know exactly when we started to recall uh the fact in front of the audience and of course maybe there is a very
+less possibility of being able to do The annotation of or marking the timestamp when you started recalling that
+particular fact because of course you are in the wild right so this is this becomes a bit tricky because then the synchronization becomes a problem and then accordingly
+the classification and then everything becomes a bit of a problem other thing that you may have you know this question may have come to your mind
+when we are talking about the scr and their CL that how to separate the scr and the scl signals this is a central problem but then there are lots of tools
+nowadays which are available online and we will provide you some links also through which you can do the separation of the GSR signal into the scr and the
+scr signals scl signals without much trouble so these tools which are available online which are available
+they they make you which have been which has been published by the previous researchers early researchers in the domain they make your life a lot easier
+so you need not to worry about that ah perfect now so other problem that is ah there and a very important problem
+with the GSR signal that it doesn't it of course it tells us that you know like uh that the individual is aroused uh the individually is stressed but the problem
+is it does not tell you whether that arousal or that stress was due to a positive stimuli or due to a negative
+stimuli so it may happen that you may feel aroused because of a positive experience or you may feel aroused for
+example because of a negative experience and in both the kind of stimulus what happens that it results in an arousal
+which is triggering the number of GSR Peaks let us say you may have the same number of Peaks when you are aroused in response to positive stimuli or when you
+are aroused in response to a negative stimuli so it does not help you differentiate what is the direction of
+the emotion it tells you that you there is an arousal but it does not tell you what is the direction of the arousal
+right so it's a it's a severe limitation ah so of course in other words if you
+recall the the emotion Theory then of course it helps you to track the emotional arousal but it does not tell you
+anything about the emotional balance so if you recall the vad and the pad component so we have the information about the arousal but we do not have the
+information about the valence at least when we simply use the GSR signal and it is for the same reason that what we do
+when we make use of the GSR signals we we usually combine the GSR signals with other data sources such as of course you
+as you saw the facial expression analysis the one that I showed you just before we can even combine it with the other physiological signals such as EEG
+electronography signals and of course we want to look at the tracking ah to observe the Gaze tracking
+of the individual gaze tracking data of the individual so this is how you know in general it in short this is how we use the GSR signal
+to understand the arousal and and then when whenever required we combine the GSR signal with the other data sources
+in order to obtain more information now let us try to look at how the emotions
+are represented in the easy signal
+
+
+Week 8 Lecture 2
+
+
+hi friends so in the last module we looked at the emotions in the GSR signal a very
+popular physiological signal to observe the emotions now in this we again looking look at we will again look at a
+very common physiological signal and very very popular which has become a very popular in the recent years
+is the easy signal or as it is known as the electronso photography signal so you may you you already know that our
+brain it consists of millions of neurons and it turns out that in order to communicate with each other they these
+neurons they fire in sync uh in order to do the communication so if it turns out that whenever there is a firing of
+thousands of neurons together then what happens that they generate an electrical field
+which is strong enough to spread across tissue bone and more importantly the
+skull and that is how we eventually measure the electrical activity of the
+brain on the head surface so this is what essentially is easy so EEG is what it records the electrical
+activity generated by the brain and how it records of course with the help of certain electrodes that we place on the
+scalp surface so we will see some example and so basically as I was saying that the reason that the neurons fire in
+the brain because they want to communicate with each other via some electrical impulses and this
+communication it turns out that it's not a random communication that happens of course so these communications they are associated they have been shown to be
+associated with certain cognitive processes such as drowsiness alertness or in turn
+that is what you call as a kind of Engagement how engaged you are they give a sense of a wakeful relaxation that
+whether you are in a relaxed State even though when you are awake and then of course more importantly they also tell
+you about whether there is an approach or avoidance attitude in response to something
+by looking at your brain activity so then because of these reasons you know that we are able to understand let's say
+lots of emotional information of about the individual such as the engagement such as the cognitive different cognitive states that an individual is
+in through the brain activity and and that is what it makes it very very exciting other important feature about
+the easy signal is that it provides an excellent time resolution what it means that first thing the response time of
+the easy signal is pretty fast is somewhere around 200 millisecond so basically from the onset of the stimulus
+it takes around 200 milliseconds for the response to occur in the easy signal and
+hence it allows the detection of the activity at sub second time scales as I said within millisecond within 200
+milliseconds you may have the response and So within a second is the time scale itself you can analyze the activity that
+is happening right activate in the sense the cognitive activity that is happening inside the brain so now having
+understood that let us try to understand how can we measure the easy signal so it turns out again it's it's not so uh in
+the due to the advancements in the variable Technologies now it is not so invasive uh sensor and tools that are
+used to analyze the brain activity so basically in this what we do we put the EG electrodes
+such as the one that you are seeing on the left screen here so basically this is this is a one ah diagram where we are
+looking at how do we do the easy measurement so basically the easy electrodes this is what is the easy electrodes and these are easy electrodes
+they are put on the on on the scalp surface of the scalp using a in in the form of a easy cap just to make the life
+easier you know when you're putting it in the form of the easy cap it makes the placements and all a bit easier and then what happens then whatever signal that
+is this electrodes are capturing of course it turns out that these are again very very small binary School voltages
+of course because you are not a Transformer the human brain it does not generate a lot of current or voltage thankfully so
+basically whatever the voltage whatever the electrical activity that the electrodes are capturing then of course
+that electricity is usually pass through an amplifier which then amplifies it and then of course then it is sent for the further storage and for the further
+processing for each different electrodes so for example here you can see that there are different ah number of waves there are n number of waves so for
+example in this case this is one two three four five six seven eight nine ten so basically there are different number of waves
+that are representing the electrical activity as captured by the different electrodes so for example if there are 10
+waves here so basically they are representing the activities of 10 different electrodes right so as many number of electrodes you will have on
+the EG cap as many number of waves you will get for the further processing and for the further storage and the
+recording purposes and it turns out that nowadays as I said because of the advancements in the variable technology
+there are many even more non-invasive and unportable kind of headsets such as this emotive Epoch headset that you are
+seeing on the right side so you can see that the ET easy motivpoc headset it constitutes around it constitutes 14
+electrodes and among those 14 electrodes you see that it's not a kind of a in a cap structure it's purely it is a Bluetooth
+headset what it means that it simply captures the data ah through the electrodes and then it simply makes use of the Bluetooth to transfer the signals
+in a wireless fashion to the uh the nearby computer or wherever you are trying to collect the data and it turns
+out that you know like all the 14 electrodes that are there is being depicted on the ah this particular diagram so this is the locations of the
+electrode of the immortv park as per the 10 20 International leveling system so basically in order to understand this
+thing let us try to understand what is the electrode labeling 1020 system so basically this 1020 International
+System it is a a International System uh to label the placement of the electrodes
+in an uniform fashion so basically what it has as you can see on this diagram it shows you the electrode locations of the
+international 1020 system for the easy data now if you look at here ah the the
+electrode placements in General on the surface of the scalp is a defined in certain different areas such as
+prefrontal reasons so for example if you look at this these two so for example basically this part is what is known as the prefrontal region of the
+surface similarly then you have the frontal region so it is not hard to imagine that why this becomes the frontal region so basically prefrontal and then you have the frontal region of
+the scalp similarly you have the temporal reason so basically this is what is the temporal region of the scalp
+then you have the parietal reason so basically this is what is the parietal reason you can very well imagine this is a parietal region and then you have the occipital region so basically occipital
+reason is at the back and then of course you have the central region uh and then that is what are the different reasons
+in which the placement site on the surface is is divided as per the 10 20 International System
+now apart from this ah placement ah reasons there is a zero that is often ah
+attached with a electrode and the zero refers to as the midline sagittal plane of the skull if you look at this midline
+sagittal plane that is what is ah that is what refers to the electrodes that are placed on this midline sagittal
+plane and then accordingly the F becomes f z so electrodes placed on the frontal cortex they become the FZ similarly on
+the central they become c z similarly on the parietal region becomes a p z right and mostly the electrodes that are
+f z c z and p z ah they are mostly for the reference or the measurement points so the rare data is not used in the
+analysis but rather it is used to understand the baseline or understand the reference points of the
+easy data right now it turns out that as per the structure as per this leveling
+system the even numbered electrodes such as you know 2 4 8 6 and so on so forth
+they refer to the electrodes placed on the right side of the head similar right so these are the ah
+even numbered electrodes they refer to the electrodes placed on the right side similarly the odd numbers such as these
+they refer to the electrodes placed on the left side of the ah human the scalp
+right so skull so so so that is how is the placement of the 10 20 system looks like now of course you know like these
+are not the only the number of the electrodes that can be represented that that you can have in an easy system of course you can have very well even 128
+or even up to 256 electrode systems are very very popular well are common not so uncommon to have but nevertheless you
+can imagine the more the number of the electrodes the more the density increases and hence uh what we call it as a special resolution increases with
+that more number of electrodes we will talk about the special resolution in a bit and of course you can very well imagine that with this what happens
+and that the Precision of the data that you get it increases nevertheless also it adds to the cost it adds to the more intrusiveness it adds to the complexity
+of of so many different things right so now having understood the 1020 system let us try to look at uh the
+electrode locations uh for the emotb park so if you look at this thing so you have this af3 and the af4 what is this
+basically these are representing the prefrontal cortex prefrontal electrodes similarly you have these frontal
+electrodes right these are the frontal electrodes but which are more related to the central uh parietal similarly you
+have the temper and electrodes these are the reference point electrodes similarly you have the electrodes in the parietal region and these are the electrodes in the occipital region right so that is
+how to either you have 14 electrodes in the in the emotive Epoch system which is a nice system it's a portable system it's a wireless system and on the other
+hand you can always have this kind of a you know the easy caps that you are seeing on the left hand side so nevertheless no matter
+what type of device you have all these types of device they make use of usually this International 1020 system for the
+placement of the electrodes on the surface and it turns out that all these different reasons of the human brain
+they represent the information about different areas right so without going too much into the Neuroscience we will simply try to now look at the different
+features of the EG signals that are related or correlated with the emotions rather than trying to understand the
+easy data as such right so basically one of the very popular feature with respect to the easy signal is known as the frontal Alpha asymmetry
+so the frontal Alpha asymmetry as the name itself suggests basically this is what this is the difference between the
+right and the left Alpha activity over the frontal region so let us try to break it down so basically this is what
+this is the difference between the right and the left so basically you have of course you have a right Hemisphere and you have a left hemisphere not hard to
+understand over the frontal regions so we already understand there is a prefrontal cortex and there is a frontal region so basically what you have of
+course Alpha activity we will try to understand in a bit basically what it says that it says the difference between the frequency power
+over the left and the right frontal regions and we talk about the left and the right frontal regions so basically
+you have several options you can have either the F3 or F4 as a pair F4 representing the right hemisphere F3
+representing the left hemisphere or you can even have the f8 and the F7 right so basically you can have a pair of these
+two or you can have a pair of these two and in turn what you try to do whenever you take the difference between the
+Spectrum power of these electrodes that is what is known as the frontal Alpha asymmetry now where does the alpha comes
+from you already understood the frontal you already understood the estimate basically the difference between the frequency power between the band power
+now Alpha where does the alpha come from so let us try to uh well so Alpha is basically it turns out that you know the
+easy signal it can be categorized into the different bands as per the frequency ranges that it has and so basically
+roughly speaking we have this we call this Delta Delta is the frequency band that is representing the one to four Hertz
+commonly and basically this particular reason it represents the electrical activity when an individual is in the Deep Sleep State similarly you have the
+Theta so basically this is what this is representing the deep sleep State similarly you have the
+forehead so basically four eight is what four eight is known as the Theta ah region and this Theta reason basically
+Theta reason the activity in this Theta region that is the electrical activity within the four to eight Hertz of the EG
+signal it mostly represents the drowsiness and it also represents your
+condition let us say when you are doing the meditation right similarly then you have the 8 to 10 Hertz so basically eight to ten Hertz
+and this 8 to 12 Hertz these two are combinedly this is known as the alpha band and basically in the alpha band it
+it is basically the activity electrical activity of the brain when mostly you are in the
+relaxing state and many times when you have this closed eyes right so basically that is what is the
+ah these two are representing together and then you have the beta band so basically beta band is the elliptical
+activity that happens between 12 to 30 Hertz and this beta band it mostly represents when you are in the state of
+let us say concentration or when you are doing thinking so it represents the concentration and the thinking ah
+similarly when you look at the 30 to 60 hertz this is the the gamma band and in the gamma band basically what it represents
+it represents different cognitive functions including the workload cognitive workload that you may be
+experiencing right so these are the different bands in which which corresponds to the different sets of activities that the individual is
+involved in at least the with respect the cognitive state right so having understood that now let us try to and so now you may have understood that okay what is the
+alpha activity so basically Alpha activity is what you are trying to look at the frequency power in the alpha band
+Alpha band is that 8 to 12 hertz frequency roughly speaking right so basically you are looking at the difference
+between the F3 or F4 or F7 or iPhone f8 but of what of this 8 to 12 hertz frequency
+power for the easy signal it's not hard to understand again frontal is the frontal electrode asymmetry is the
+difference and then Alpha is basically you are looking at the alpha activity the 8 to 12 Hertz and then when you talk about the frontal pair there are two two
+users you take two pairs two sets of possibilities are there either you take the F3 or F4 or you take the F7 and f8
+right and it turns out and there this frontal Alpha asymmetry it is used as a process for the feelings of approach or the avoidance what it
+means so when you are looking at an stimuli when you are looking at an ah activity or when there is an external event two
+words which you are feeling engaged or you are feeling as more interested so you are approaching that and then so
+that particular experience or in the same way the experience of when you are feeling boredom when you are withdrawing
+from the ah interest of a particular activity or any stimuli that is being represented by the FAA signal right and
+then as I said so mostly we use the alpha band here but many a times this gamma band which is the greater than 30 and this beta bands are also equally
+used but more importantly this FAA is the most commonly used activity now there is an interesting phenomena
+here that it turns out that there is an inverse relationship that exists between the alpha band power and the cortical
+activity what it simply means that if there is more brain activity happening then there is less Alpha power and vice
+versa it means when there is more Alpha power it means there is less brain activity happening so I hope that this
+is clear again I will repeat that when there is more brain activity happening when the brain is actively involved in
+something or when a certain particular part of your reason is of your brain is actively involved then you will find that the alpha power for that particular
+reason is less so now if you combine these two what it means it simply means that when there is
+an increased lift frontal activity when there is an increased lift frontal activity what it means that it serves as
+an index of the approach or the motivation or the related emotion right so increased lift frontal activity it
+means you will have less Alpha power here when you have less Alpha power in the left in the left frontal region it
+means that you are you are failing an approach motivation or or let us say related motivation which in this case could be of the
+anger as well which is an exception when it comes to the positive emotions similarly when there is a relatively increased right frontal activity which
+means when you have a less Alpha power in the right ah frontal region then it means that there is an withdrawal
+motivation withdrawal motivations you are sort of experiencing a negative emotion and then you are trying to withdraw from the
+stimuli or from the event which is in turn representing that you are feeling disgust fear sadness and and so on so forth right so now you can see how
+beautifully the frontal Alpha asymmetry again I will summarize it so basically the frontal Alpha isometry
+it is used as a proxy or as an indicator of approach or withdrawn or approach or avoidance in order to calculate the
+frontal Alpha symmetry you simply look at the alpha band power that is the band power that is the power in the range of
+8 to 12 Hertz in the F3 region or F4 reason or F7 reason and effort reason you take entity of two pairs and then
+you simply take what is the band power there and if you have an increased lift free frontal left frontal activity which means you have less Alpha power here
+then it means there is an approach motivation there is usually a positive emotion of course anger is an exception here you may be experiencing anger also
+and when we have increased right frontal activity means when you have less Alpha power in either F4 or f8 then it means
+that you are experiencing an a negative emotion which is an indicator of the withdrawal motivation or or for example
+discussed fear or sadness right so this is a very very important feature that you may want to look at and it turns out
+that it has been very commonly used in trying to understand whether you are liking something or for example whether you are disliking something
+right and then quite easy to calculate now apart from these frontal Alpha symmetry there are different ah there
+are other there are other uh features that are very very popular ah of course again you have to understand
+this is again A Time series signal so when you have a Time series signal you can do the analysis in the time domain you can do the analysis again in the frequency domain you can do the analysis
+in the time frequency domain and so on so forth so basically it turns out that the way we have event related potentials
+or event related skin conductance response for the GSR signal in the same way we have the event related Potentials
+in the easy signal and there are different types of erps that we have for the easy signals and for example one
+that is very popular is also known as a p 300 what it means so basically the number 300 here it represents the that
+there is a response within 300 millisecond from the onset of the stimuli right so that is what is for example the event related potential and
+again you can calculate lots of statistical feature on it and then the the domain or the community uses a lot
+of statistical features on this P 300 similarly as I said I was suggesting you can definitely use the power features from the different frequency bands you
+already know that there are different frequency bands uh for the easy signal and then within those different frequency bands you can simply
+calculate the power and then uh you're using those power you can understand what exactly is happening in that particular ah reason right so so that is
+the power feature from the different frequency bands and then it turns out that you know like there is a very interesting paper that
+foreign which was presented by researchers in in 2014 which which nicely represents that
+what are the different features that are related to the easy signal uh in in response for the emotion recognition and
+then it turns out that there they have shown that for example Advanced features such as you know higher order Crossing so for example if
+you look at this is the this is what is representing the higher order Crossing so for example higher order Crossing is what higher order Crossing is simply the
+number of times the waveform is crossing the axis right so basically you count the number of times the waveform is crossing the axis and you take some differences you take the difference of
+that right so basically this SOC is for example what the researchers have shown here that this SOC this is the weight
+test sort of it is representing the weightage in among the different features when it comes to the for the emotion recognition so you can see
+that this Advanced features like the soc for example is outperforming the commonly used for example the Power Band feature so this is what is representing
+the Power Band features and similarly it is even you know outperforming ah many different features which are even including let's say you know these are
+the dw2 features which is discrete wavelet transform features similarly for example there is either this statistical feature and and so on so forth so
+without going too many too much in detail again here you can see that here in this particular paper the researchers
+have tried to analyze and understand the different features of the easy signal in time domain
+again in frequency domain and again in the time frequency domain and then if you look at this particular diagram it
+gives you a very nice representation about the weightage or the importance of different easy features a with respect
+to the emotion recognition I will definitely invite the audience which are going to look at the emotion recognition
+from the easy signals to have a look at this very interesting and nice article perfect so now we have already
+understood about the easy signal and then we already are a bit excited I hope that we are a bit excited about the use of the easy signals so with that we have
+to also understand that there are certain limitations again associated with the easy signals so one limitation that is associated
+with the Android is very very common with the AG signal that it has a very poor special resolution what it means that while it has an excellent temporal
+resolution it can it is very fast responsive signal and within 200 milliseconds it can give you the response uh to an external event or the
+stimuli you really do not know that whether the signal that is being produced is produced near the surface
+that is from the cortex or it is being produced at a much deeper level so basically you know there are different
+ways to and this is what we call it as a source localization problem in Easy domain to address this Source localization problem of course one way
+that you may have rightly guessed that is to make use of multiple electrodes but now you can understand the more you have the number of
+electrodes of course it sorts of gives you a hint but then also there is no proper way to understand this Source localization or to understand to resolve
+this special resolution for the easy signal nevertheless I think it is also very easy to understand that while there is
+an availability of while there is availability of the portable and the mobile portable and a non-intrusive
+devices wireless devices such as emo TV pork and there are others also in the market it's a bit intrusive actually it's a bit intrusive in comparison to
+the GSR and the heart rate sensors that we saw earlier nevertheless it provides an excellent time resolution it's a very very
+effective sensor but to handle this again you need some sort of training uh you know
+about the how to place to the placement of the electrodes on the human scalp and the skull and then at the same time you
+know how to you know perform the analysis of the signal that you are capturing it requires a bit of understanding of the signal
+processing in order to understand how to do the analysis of course but bottom line is nowadays there are lots of tools which are
+available online and then at the end as I said like we will have a demo of certain tools certain methods methodologies which will definitely help
+you a lot in doing the pre-processing or in doing the analysis of the this physiological signals so you need not to worry about it
+of course it's always good to have a background in the signal processing for this thing ah one very important problem that is
+associated with the EG data that is it is almost always contaminated by certain artifacts such as the electrical signals which is detected along the scale of an
+easy so for example if as simple as that so you know when you are capturing the AG signals as many times there is going to be a blink or an activity in the eyes
+in a nice uh you it is going to be reflected as an artifact in the EEG signal so you have to understand that when these artifacts are occurring and
+of course accordingly how to remove them again it turns out there are tools which can do this job for you
+again as I said so easy while it's a very interesting signal to have ah and and it gives you a lot of information
+many a times easy signal again is combined with the facial expression analysis and the eye tracking to uh have
+a multi-model view of the the emotion that we are trying to analyze and understand
+right so now we already understood about the emotions in the easy signals so let us try to conclude and after that we
+will go for a demo uh on the how to process and analyze the physiological signals
+o it turns out of course what we understood first that physiological sensing is an important tool for the affected Computing Community more
+importantly because it gives you unaltered form of the emotion it is it cannot be faked and hence it is sort of
+represents the pure emotions that are occurring in the humans other important thing that physiological
+sensing in contrast to another form of sensing that is available it allows you to have a continuous and discrete
+monitoring of the individual's emotional state right so basically when you try when you are trying to analyze uh the
+let's say when you are using the self reporting to understand the emotional state you cannot really do a continuous monitoring over there right so it you
+cannot really ask every second every millisecond that okay how are you feeling and and so on so forth what is your emotional state right but it turns out if you have the sensors which are
+variable which are portable which are Wireless then of course you know you can with the help of Those sensors you can really do a continuous monitoring of the
+emotional state um among the different physiological signals what we also saw that the heart
+rate GSR and the easy signals are the signals which are most commonly used for the emotion recognition and the motion
+analysis and with this you know like among these physiological signals comes at lots of challenges such as of course one we talked about the labeling or the
+annotations so we saw that okay in the wild the onset of an emotion is often unclear while you know when you have a very laboratory settings lab like
+conditions you have a lot of control you can really Mark when the stimulus is being presented when there is an onset of this stimulus but there is usually
+not much resources available when you want to do these experiments when you want to
+collect the data in the wide and then for the same reason there is this there is something known as wind doing here so window based approach
+so basically in the window based approach what you do basically rather than trying to analyze the signal at every second let's say or
+every minute you create a window of let's say five seconds five minutes or something like that and you try to analyze the emotion within that particular window and then you sort of
+you know uh moving window you you make use of a moving window and then you let's say if there is a five minute window you move it with 50 interval so
+then the first signal that will appear from the one to five similarly the second signal if there is a fifty percent overlap
+may appear from 2.5 to let's say 7.5 and so on so forth so you got the idea right so this is known as a 50 overlap of
+moving window so you try to analyze this uh emotions in a window segments and then you try to do this moving window to
+capture uh to to to help you analyze uh the emotions without even precisely knowing the onset of the emotions
+so other of course the problem is the subjective self perception of the emotion so what I mean by the subjective self perception of the emotion that of
+course whenever you want to analyze the emotions you need to get the ground truth of the emotions from the humans only and then it turns out that the
+emotions are very very subjective so the same thing one individual may feel happy about another individual may feel sad about and then it turns out that
+emotions itself are very very complex and then there are of course uh defined well-defined emotion models but then you
+really need to make the participants understand those emotion models uh like in advance and to whatever extent
+you can so that you know they can give you a good perception of the emotion in in terms of the uh the modulus that you
+are trying to analyze or use and this is something that is not let's say is specific to the uh to to the physiological signals but it is common
+to all other modalities as well ah this is interesting actually so basically apart from this thing you know like it turns out that there is uh many to one
+mapping of the non-emotional and the emotional influences on the physiology what it simply means that for example while there may be a response in the
+physiological signals uh uh in in response to an emotionally stimuli and the same type of response in the physiological signals may also happen
+due to some physiological uh some some physical activity as well so for example as simple as that if I if I sneeze at a
+moment at this moment right now maybe you know just my sneezing itself will increase my heart rate to certain extent and it will make some changes in my the
+in my physiology which may not be related to the emotional state that I'm I'm feeling or it will not relate it will not be associated with the
+emotional state that I'm in right so and and it turns out that there is a many to one mapping here so basically you have a non-emotional uh uh actions you have
+emotional influences and for their non-emotional and the influence emotional influences you may have same sort of physiological responses and and
+it turns out that it's a bit tricky problem when you want to analyze the emotions in the world of course that is here you know
+people have used for example you will have used different types of sensors again to to understand how to
+differentiate among these two and one very popular kind of sensor is the uh for example IMU sensor which is the initial in inertial measurement unit
+sensor so basically the IMU sensors what it they what they do they try to observe the emotions ah sorry the Motions of the
+human body while you are trying to observe the uh the emotions making use of the physiological signals so of
+course when there is a motion detected by the Emu maybe you may not want to consider the physiological responses in that particular segment right and or or
+you may want to be a bit careful while analyzing that so that is one very important and interesting challenge that we have again
+one challenge that is very very common across all the modalities and maybe a bit more pronounced in case of
+physiological signals is the individual variability so what what is individual variability so basically individual variability is as simple as that there
+are variations in the individual's expression of physiological signals as simple as that for example your Baseline
+heart rate may not be the same as someone's else's Baseline heart rate right so for example there is a range usually even for the healthy individuals
+if I am not wrong the heart rate the healthy heart rate looks like 60 to 72 beats per minute so there is a reason
+that there is a range right so because there is individual variability 65 is also okay 70 is also okay 60 is also okay
+and so it turns out that you need to know this variability the Baseline for the individuals in order to understand
+uh what is the change in the physiological uh activity for that particular individual in that particular
+sensor or signal right so this is uh also very interesting limitation that is there but nevertheless uh bottom line is
+like um there is a lot of research and lot of work development that is being done with respect to the analysis of the emotions
+in the physiological signals and it turns out that with the proper Endeavor right so with the proper efforts uh it
+turns out that if you are looking at the right sensor if you are looking at the right setting and if you are looking at the right type of analysis and and
+machine learning and deep learning and Signal processing techniques then these physiological signals can enable very effective uh can enable Effective
+computing in a very very robust fashion and which is private of course you are not uh it is some in
+many senses the data of the individual is private you are not it's kind of anonymized you are not really looking at the identity of an individual so that is
+in that sense it's quite private of course it's quite personal again for the same reasons you are not trying to identify the individuals in that case rather than you are simply trying to
+identify the emotions that individual is having and another thing that is very important and that is not offered by so many different modalities is that you
+can do the analysis of the emotions in a continuous fashion which is not possible with the several of the other modalities
+and it turns out that it is a luxury when you combine this private personal and the continuous method attributes together right so with that
+then there are lots of references that we used while trying to come up with this lecture but uh that is all of course we will provide the references
+you are to you and and now we will try to look at the the demo that we are talking about that how to do the
+processing or the analysis of let's say particular physiological signal to understand the acquisition reprocessing
+may be feature engineering and and in the classification okay so with that see
+you at the demo thanks
+
+
+Week 8 Lecture 3
+
+
+I am abhinavdhal from Indian Institute of Technology Roper friends today we will be discussing
+about multi-modal effect recognition so in the past few weeks we have been
+discussing about single modality based motion recombination systems today we will see how we can combine
+them and get a more fairer more accurate output with respect to the user emotion
+so in this lecture first I will be discussing about why is multi-model presence of multiple
+modalities that is important and useful in a large number of circumstances and then I will be discussing about the
+basics of fusion which is how we are going to combine the information and there are different methods and types
+now the motivation is as follows let us let me
+try to enact so I'm going to say
+I really like ice cream on a hot day let me say this again but this time I'm
+not going to face the camera I really like ice cream when it's a hot day and now let me repeat this for a third
+time I really like ice cream on a hot day now what has happened in this Pursuit
+in the first iteration I was looking into the camera so you could analyze my facial expressions
+in the second iteration I was not looking into the camera but you could hear me right so the speech modality was present
+in the third iteration as I was speaking I was moving my head looking down looking sideways
+and what happened in this particular iteration so you had in some points access to both
+voice and face and some points Only The Voice so that means there was extra
+information complementary information and sometimes Vital Information when one modality was present the other was not present right
+so this gives us the motivation to actually have the possibility of using
+different modalities and if you recall the different modalities in this case friends is the
+amera based images and videos the microphone based voice and music background and user information
+the text based information in the form of messages documents and then the
+physiological sensor based information coming from sensors such as the EEG or the ECG
+now this means we are going to combine multiple streams of data
+so that for our emotion recognition system we can have richer information
+now richer information would mean extra useful and complementary information which can
+help my machine learning model in better predicting the emotional state of the user
+now the accuracy is the concern here
+from the perspective of when one modality could be present or could not be present as as I showed to you and
+also when both are present perhaps we could have a better performing system now
+the expectation of a multimodal emotion recognition system is that each modality is expected to provide some unique
+information when you have these unique information from different modalities then combining
+them makes a lot more sense now let us say in a scenario both
+the modalities face and voice are presenting the exact same type of
+information about the emotion so in that particular case may be
+combining them together would mean more computation but not necessarily increase in the
+performance of the system therefore we create multimodal systems and during
+that process we keep this in mind that we are going to add those modalities to
+the system which would provide complementary information unique information so that together The
+Ensemble of this information coming from the different streams is useful for the prediction of emotion
+now we also don't want that if similar information is coming in
+then we end up with random data so along with compute there is a storage need as well so you end up requiring more
+storage and it's not really helping the system now according to Sydney dimelo and Corey
+the challenge is here for multi-model systems are as follows now the classifiers the machine learning
+classifiers and the fusion methods the techniques with which we are going to combine the information coming from
+different sensors that better capture the relationship between different modalities now what does that mean
+so let's say you have face information coming from a camera
+and then you have the speech from the microphone you know you have
+the voice of the person let's say there's one user now how do you combine them together
+such that we are able to better capture the information for emotion prediction
+and also what is the relationship between the data so only once you understand the relationship between the data
+coming from different sources you can combine it better with the machine learning model or some statistical analysis method which we
+will see during the course of the lecture now from this challenge the second is
+the effective corpora so your data sets
+which contain adequate samples of synchronized Expressions extremely important now
+we would need a data set for learning the patterns for emotion recognition
+it is non-trivial and a time consuming process to set up an experiment for data
+recording where the phase information let us say here is the stream of phase
+nformation coming in from the camera and synchronizing that with the voice
+information coming from a microphone ok so they would have some time sync you
+know this was a timeline so this actually is a challenge to have large number of samples where we have
+the multiple modalities synchronized the other is it is observed in the large
+number of experiments that the Improvement in the accuracy when you
+combine multiple modalities that might come out to be very modest very minimal increase
+now that could be based on the choice of fusion techniques how much data do you have how much
+complex machine learning or simple machine learning method you are using and also how many samples do you actually have for the multi-model data
+right so it's a challenge which comes into the picture that you know just because multiple modalities face text
+information and you know so forth is available that does not mean that when you combine the different modality data
+the performance is going to go up you know this increase in performance of the system increase in the accuracy of
+the system that is based on how the information is combined from different modalities
+and of course as we already discussed this point is there any unique information which is there in the case
+of the different modalities because if there is not unique information you combine the information together you may
+end up with the problem of course of dimensionality from a machine learning perspective now let's look at multimodal effect
+recognition what we are saying here is the underlying relationships and correlation between the feature sets
+from different modalities and effect Dimensions this is what we want to understand right remember features here for example for voice you could have
+your mfcc for the face you could have a histogram of gradient
+and you would like to combine them you would like to understand the correlation between them study the relationship between them and that would help you in
+creating a multimodal effect recognition system now the first task here would be to choose the right features
+feature selection which feature should I use to represent the text which feature should I use to represent the
+physiological signals the other is how different effective Expressions will
+influence each other you know the presence of let us say phase data and
+voice data or gesture data it will help one type of emotion category more
+it will influence one category more than another category so when you're designing a multi-model
+system combining the power of different representations from different streams you have to see you know which emotion
+category could gain more and again now these are like a design choices which we are going to make when we are creating a
+system so we are going to look for the uniqueness of the information with
+respect to emotion categories further how much information each of
+them provides about the expressed effect right so let us say we want to create a system which is going to tell us that
+during the consumption of let us say massively online content you know some video
+content which is available on the internet what is the emotion which is Illustrated in the user right so you can now take
+two types of inputs one let's say is you can capture the phase and the body so that's from the vision modality
+and this is active right so you are so this is passive since you are recording this okay so you are this is
+passive information what you could also do is you could also have more active information wherein you can get the feedback from a user that
+after they watch the movie there were some questions and they answered right so feedback
+from the user now these two are of very different nature the data right this is a
+continued stream of images and this one the feedback this could be
+simply let us say some yes no binary answers
+now it needs to be seen that during the
+consumption during watching of the video how much information can be provided by the images of the user
+and later on let's say when you ask the questions from the user for example did you enjoy watching this video was this
+video informative you get yes and no answers right so this could also be indicative of the effect which was
+induced into the user when they watched the video right so during the consumption of the material images are telling us better
+information after the user has seen the video the feedback from the user is giving us more information right so the
+ulti-model system could combine this and can get a more accurate version
+of the emotion which was elicited into the user in this particular example
+now you have selected the modality after you have selected the modality the question similar to how we talked about
+you know during the voice based emotion or the face based emotion prediction is
+the task of collecting the data so we will require let's say a labeled or a semi-labeled data set where the
+data would come from different modalities now
+of course similar to UNI model when only single one modality is present in the case of multi model as well when we
+would be creating these data sets you know the expectation is that they will have spontaneous data you
+know more natural data and it could be subtle as well now why is this important right
+typically in the real world when we express ourselves most of the times the expressions are
+subtle now these Expressions could be in the form of the face information or the voice information only in very rare
+circumstances few cases you will see extreme extreme or you know extreme show of
+emotion in The Voice or in the text so the data set which you would like to capture
+from different modalities that should contain spontaneous and should be representative of the real world circumstances
+now what happens in the case of multi model data sets which is different from your unimodal data sets your database
+it should contain this contextual description which is helping it through the synchronization
+with other modality ok now what could that mean let's say at
+timestamp T one you have a stream of information coming this is the image of the whole body of the user
+okay so this is coming in and we are looking at this particular timestamp t one
+now in parallel at T1 I also have the voice information coming in
+now how do I know that exactly a T1 which was the time stamp
+which could allow me to map these two together saying that okay even though this is coming from a camera and this is
+coming from a microphone how do I make sure that I get the information exactly at the same time
+for the different modalities further during the data collection I also need to take care of the stimuli
+so the stimuli it should be labeled simultaneously for all the modalities available to the coder
+what that means is let us say I am a labeler and I am going to now label assign emotion categories
+or emotion intensities if it was valence arousal scale to uh data which is let's say containing
+the camera modality and the voice modality so audio is there and video is there
+so for the assigning of the emotional category as a labeler I have to be careful that I
+need to consider both the modalities the the face and the voice right
+if I do individual level labeling then it will be non trivial to fuse them together because it is possible that if
+you only listen to the audio it could convey a tad bit different emotion as compared to why you are just
+looking at the video right so while collecting multimodal databases we need to give very clear instruction to
+the coders to the labelers about how they should interpret the data and what is the expectation on how the data would
+be interpreted now once we have created the data set
+comes the next part which is extracting different features from different modalities
+and now let's look at what are the important points which needs to be taken into consideration while we extract the
+features because in this case features would be extracted from data streams coming from different type of sensors
+which means the data in different data streams would be of different nature
+would be of different format would be of different size so let's dwell into this
+so what we will observe is first thing there would be a variable sampling frequency now
+let's say we had three sensors okay the first is the camera the second is your skin galvanic response you know that's
+that's attached to the arm of the participant and then we have a headband so that is your EEG right you put it on
+the head now if you notice typically the information coming from your camera would be of a frame rate let us say 25
+or 30 frames per second right the information coming from your GSR and EG that could be of a different
+frequency so this one could be at a frequency of 16 Hertz this fellow could be at 128. now
+different strategies would be required to extract the features from these modalities individually but
+since amount of data is coming in a fixed unit of time across these
+different modalities we will have to be careful with respect to how are we going to join the information together simply because
+we have different amount of information coming in therefore we are going to require
+methods for synchronization as well so let us say we say well you know we are going to analyze one second of data
+together by analysis we mean we are going to stack the features so I should know that from T1 to T2 which
+is of duration one second how much of the video data has come in how much of the GSR data has come in
+and how much of the EEG data has come in okay because ultimately this will be the duration
+for which I am going to extract the individual features that is F1 F2 and F3
+so I would require a way to synchronize so that I know that for the camera data which is coming in for the GSR sensor
+data and the EEG data what is this T1 information what is the timestamp where in the Stream of this data you have the
+starting point and then let's say the ending point for this example where the duration we are taking is once again
+now after we would be synchronizing we will be able to combine these features right let us say this is how we are
+combining the other is we can also decide at certain moment in time that when do
+we want to make a decision when do we want to have chunk of data analyzed coming from different modalities and
+then that would be let us say telling us the emotion category right
+further it's extremely important to do the right feature selection right it's about optimizing the features
+phase individually followed by a combined feature selection right you have seen this already so when you have let's say the the video coming
+in and then you have the EEG data let's say coming in then the optimum feature F1 for this the optimum feature for EEG
+then an Optimum strategy for combining this F1 and F2 so that F1 and F2 give
+you the most discriminative information about the current state of
+the user and this should have the unique information
+from the modalities in this case you know we have two and
+if they are unique we also need to normalize them as well because the video modality for example
+F1 and then the feature from video modality the EEG modality F2 they would let's say we of different ranges right
+different ranges different sampling rate so we have to normalize them and have the combined feature
+in the most optimal manner it is in
+often noted that highly correlated information
+would be reduced individually per modality right so since we are looking at the unique and the correlation we would be highly dependent on the
+individual modality as well the quality of individual modality and the quality of feature which is representing that individual modality data
+now further once you have combined let us say the features right you combine these two features you could do certain optimization at this level
+right so one optimization of course is the normalization it could also be let us say some dimensionality reduction
+right or projecting the data onto a Higher Dimension space such as simply we reduce
+the cross model information so we do not want the the information which is same in phase and easy or in in EEG and in
+speech what we want is the complementary information so that together it's more information not just you know more data which has
+redundant information now once you have selected the type of feature
+representation the next is how do we combine them together and combining is here
+called the Fusion process now
+broadly friends we can divide the fusion process into late Fusion
+early fusion and slow Fusion now we'll study each one separately
+let's start with the early Fusion the simplest Fusion method so what we are going to do is we are going to concatenate the features from
+multiple modalities into a single feature vector now if you see here let us say what is
+happening is let us say we have phase feature
+then we have some text feature and some speech feature ok
+so there are three modalities what I am going to do is I am going to take these three features
+and combine them fuse them okay how do I use them the simplest approach
+is you append let's say feature one and then you behind feature one you put feature two then append feature three
+right and then here you have some machine learning processing
+could be or any machine learning algorithm here we are showing a neural network in the illustration but you could have any of the machine learning
+method so now in this case it becomes challenging as the number of feature increases right
+and also when the features are of very different nature quite obvious what we are doing is we are combining the features right
+when we are combining the features if let us say we had multiple features coming in from different modalities
+well we will have a large feature and also if the features are very
+different now what does that mean let us say F1 phase feature is for one frame and is of Dimension 1 into
+768 you know this is just an hypothetical example F2 is a wizard feature which is actually
+the dimension it's a matrix okay so let us say it is a five cross twelve and then speech feature is actually a
+spectrogram okay so again you could say well thats let us say of the dimension 128 cross 128.
+this one is one dimensional this one actually is matrices right so when the features are very different how are we
+going to fuse one could say well you know I am going to fuse it this way f 1 then I take you know flattened F2 and then I take
+flattened F3 and I simply append them but this might not be
+the most appropriate the most useful type of fusion
+because not only we would end up with a very long large feature but it's also possible that the values
+are quite different coming from different ranges in this right so you will have to normalize as well
+now in the case of early Fusion friends synchronization would be extremely important right because we are combining the information at the feature level
+itself so as I discussed earlier we'll have to know the starting point and the ending point in time and we will have to take the information exactly
+from those starting and ending points across the information coming from different modalities
+now one could say well one way to combine the features coming from different modalities is simply
+concatenating them there are other interesting yet simple ways one could say well
+if for example the dimension of the features coming from different modalities that is similar
+post normalization one could extract simple statistics let us say I can convert the different features
+coming from different modalities into same Dimension features
+so I do some preprocessing then what I can do is since now the
+different features are of the same Dimension coming from different modalities
+ can compute things such as the mean and the standard deviation
+right so this could become my feature which goes in to the machine learning model for the further processing for
+getting the emotion level now another challenge and a limitation which comes in
+for your early feature Fusion for multi model emotion recognition is that since we are combining the features
+together we are actually not analyzing the features for their
+discriminativeness or unique information first and are simply doing a combination right
+so we may lose a lot of temporal information in this Pursuit right the
+individual transitions which are happening between the data coming from Individual modalities that might be lost
+so now let us look at the late Fusion friends in the case of late Fusion as the name suggests
+what we are doing is we say well let us say we have now two features coming in
+okay one feature is your text Data and the other is your speech data okay
+so you have feature F1 and new feature F2 what you are going to do is you are going to take F1 and you are going to
+input that into your ml pipeline ok you separately take F2
+and you input that into another pipeline now these can be similar or these can be different
+depending on the nature of the feature and the complexity of the feature and what type of information you want to
+extract now what you're going to do is you're going to get some decisions okay let's say from your ml pipeline one you get
+some decision about the emotion and from the second pipeline ml Dash you also get some emotion decision
+now notice this is for one data point you have the text and speech you input that individually separately into the
+machine learning Pipeline and you got some motion decisions now you are going to combine these decisions okay
+so the combination the fusion happens late into the pipeline of processing and that is why we call these type of
+systems as late Fusion based multi-model emotion recognition so each classifier processes its own
+data stream the multiple set of outputs are combined as we did here at a later stage
+now in this case there are further two subcategories the first is we do late Fusion at a
+softer level which essentially is simply saying well you know we use a measure of confidence which is associated with the decisions
+the second is late Fusion at Heart level which is simply saying combining the mechanism and operating on a single hypothesis
+decisions so in one case you are taking the probabilities let's say which are coming from the two different channels as in here in the example in other case
+you are simply combining the decisions a very simple example is let's say you take the decisions about the emotions
+and you do and or across these two and that is going to
+give you the final emotion okay now
+related to both early and late Fusion in a way you know a middle ground between early and late Fusion is Friends your
+slow Fusion process what you are saying here is let us say again you know you have face and you have your EEG information or maybe you
+know some speech information coming in you are going to combine the information multiple levels okay perhaps let us say you know you combine phase and EEG
+together here speech goes in individually and you have a common ml system okay
+further what you are doing is you are taking some part of the system and you are individually analyzing it
+let us say you get the decisions you again learn a small classifier on the decisions and that gives you the
+final emotion so what is happening there is an assumption of conditional Independence between the modalities
+and in the queues of decision level Fusion what happens when you are actually doing just decision level Fusion you know the
+late Fusion we may have already lost a large amount of information
+hich could be gained by let us say Computing the correlation or understanding the correlation between the individual features because when you
+were doing late Fusion you got the decisions for all the modalities separately and then you combine them you did not analyze the features together
+but you analyze the decisions together right but here we have the best of both the worlds we are actually not only harboring on to the independence the
+uniqueness of the features we are also Computing the correlation between the features and then we are also combining the decision as well
+so late slow Fusion gives us the correlation between the modalities while relaxing the requirement of
+synchronization so as compared to your early Fusion where synchronization is extremely
+important in this case you know we can relax a bit because we are combining at different stages so friends with this we
+reach towards the end of lecture one of the multimodal asset recognition systems
+we looked at why multi-modal systems are useful what are the challenges in creating multimodal systems
+and later on we discussed about the different strategies in creating the multi-model fusion system with respect
+to the early late or slow Fusion thank you
+
+
+Week 8 Lecture 4
+
+
+and welcome I am abhinavdhal from the Indian Institute of Technology Roper friends we are going to talk about
+multi-model emotion recognition this is the second lecture in the series for discussion on the topic of multi-modal
+emotion recognition as part of the Effective computing course so here are the contents which we will
+be discussing first I would be bringing in front some of the databases which have been proposed in the
+community and have been used for analysis of emotion through multiple modalities then I would be talking about a very
+important aspect of the progress which is brought in through the
+benchmarks which are available in the community and later on some examples of the proposed multi-modal systems so the
+intent is to actually see how the information coming in from different modalities different sensors that is
+fused now just a recall so in lecture one for multi-modal emotion recognition we discussed about why multimodal
+information is useful to this end we talked about how unique information can be brought into a system
+for analysis when we use multiple sensors for example we can combine a microphone with a camera so you have the
+voice and the face or you could have the text information along with physiological signals through EEG or ECG
+or text let's say with the face data so there is complementary information which
+can be extracted from these modalities and we would like to learn from these different realities so as to have a more
+accurate prediction of emotion recognition all right let's dive in so friends the first database which I would like to
+discuss with you is this main data set now this main data set is a
+sensitive artificial listener based data set what we have here is a multi-model
+dialogue system with social interaction skills which are needed for a sustained conversation with a human user
+yes you would have guessed it right as you can see here on the slide
+here you have these virtual avatars virtual agents with which a user would
+e interacting and the intent is to drive a conversation so that emotion is
+elicited into the user the aim of the cement data set is to
+engage the user in a dialogue when conversing with these virtual agents and create an emotional workout
+by paying attention to the users non-verbal expressions and reacting
+accordingly now recall non-verbal Expressions could include the facial expressions your eye gaze and
+the body pose movement and this is again as we have been talking about the aspect
+sensing part once the system has sensed the affective state of the user then through these
+virtual avatars we are going to react right so that is how the feedback to the user is going to go
+now an example of this could be nodding and smiling you know these are non-verbal gestures now
+further the aim is to have real-time multimodal data okay so let's say the study is going on wherein you have this
+virtual Avatar which is going to interact with the user what we would have in front of the user is
+a set of cameras so that we can record the user now again in this there are
+multiple aspects let's say here is a person who is sitting on a chair
+okay and here you have a computer screen
+now you can have a camera right here let's say at the top of the monitor
+this will give you the frontal view and you can also have other cameras to
+capture the user from different views you can have a microphone let's say the
+lapel microphone which will get the clear sound from the user and you can also have another microphone let's say the hanging
+microphone to record the ambient noise in the room so this way you can have multiple
+sensors and get information about the conversation and the effect which is elicited into the user
+further we want to do data segmentation and Analysis now imagine here you have the virtual
+character which is interacting with the user so we are continuously
+ecording data okay so this data is coming continuously
+so we need to segment divide the data into chunks so that those could be
+further used for assigning the labels and from the perspective of learning of a multimodal effect recognition system
+from the the values which are going to be analyzed within a
+specific time duration so you can say well I'm going to have a chunk which is segmented from a long video and this
+chunk would be of a certain specific duration and I'm going to use this as one data point while I'm going to learn
+a multimodal system now this segmentation
+is going to be at frame level and then further at you know the millisecond second and minute level
+there are certain trade-offs here one could say well I have been recording this data let's say this is the timeline okay so this is
+the timeline this is T so these are the different video frames which are being captured
+I could take a window for segmentation let us say this much ok so let us say this is S1 which is
+segment one another option is well I could have taken from this Frame to this Frame only
+and I could have called this a segment as 2.
+now obviously in S1 you have more data
+and in S2 you have lesser data but from a computation perspective
+this S1 which contains more spatio temporal data would require
+larger computation resources as compared to S2 which has lesser data right so
+the trade-off here is essentially what is the frequency at which we want to do the prediction of effect which is
+going to decide the duration of the chunk which you are going to segment from the continuous data which you are
+recording if you have a smaller window yes it could have lesser temporal data but we
+could do a more close to real time analysis of the effect however if it is a longer window we would require more
+Computing resources then the output of the system might not be closer to real time but this is essentially dependent
+on the use case where you are deploying the system so the use case will decide the
+frequency at which we need to measure the effect of the user now another point to note in this
+trade-off of duration of the sample is the reliable prediction
+accuracy may require longer term monitoring now what does that mean if you consider S1 it contains more frames
+more data then we can get extra information more detailed information about the changes which are
+happening in let's say the facial expression of the user so these changes which are happening over the time will
+give me important information and a more accurate prediction because I have more temporal data
+however if it's a shorter window it's possible that the very few frames which are captured in this small window
+I may not have got enough information to actually predict the correct affect
+so what that could mean is let's say a person starts to smile now they are starting to smile so
+there is an onset of an expression typically it has to go to the apex of
+the expression the highest intensity and then it might go down to offset let's say the person is going to smile
+but what happened is we were considering a smaller window so we only had the data
+from onset to let's say Midway to Apex now this might not be enough for the
+system to be robustly able to predict that the person is smiling it could let's say very well be confused with that that the person was just speaking
+so lip close lip open now if we have a longer window let us
+say I'm now going to focus on apex to offset all of the frames here now this could give me a more
+reliable information with the extra frames which now I have to analyze so I can see the transition
+between the facial expressions which can give me a more robust information further it is extremely important to
+have the appropriate unit of analysis and what we understand is that the app create unit of analysis you know how
+long you want to have how many frames what is the duration that is all context dependent that is the use case dependent
+right it it is about where are you going to use the system and who is going to use
+the system and an extremely important Point here friends what is
+the cost of ah incorrect
+prediction so an example is let's say we are going to use a multimodal effect recognition
+system in a health and well-being based use case so the cost of doing an incorrect
+prediction is far far higher as compared to let's say another scenario where we are going
+to use a multimodal effect recognition system to suggest movies to a user
+now from this c main perspective this is the data set the video was recorded at 49.97 frames
+per second at a spatial resolution of 780 cross 580
+and the researchers they kept the bit rate of the data at 8 bits per second
+while the audio was recorded at 48 kilohertz with a 24 bit per sample now what that mean friends here is you
+have the video and then you have the audio which have different
+frequency and size
+of data right therefore synchronization is required as we have discussed in the
+earlier lecture now in the case of cement the researchers they synchronize the audio
+and video with an accuracy of 25 milliseconds
+now let's look at other attributes of the cement data set we are capturing spontaneous data
+now this is based on the audio usual interaction between the human and the operator which is undertaking the role of an
+avatar with four personalities so the virtual Avatar can have four different type of personalities
+why do we want this well if the Avatar is going to have different personality then this can affect the course of
+conversation between the user and the avatar right in simpler words if let's say two people are talking
+the direction of the conversation would be affected by the personality of the individuals and that is what the
+researchers also wanted to capture so that you know we have spontaneous data and along with the spontaneous data we can also reflect on the
+non-verbal Behavior which would be induced into the user due to the
+personality of the virtual Avatar so the four personalities are as follows
+the first is prudence now this virtual Avatar is even tempered and sensible
+the second is a poppy virtual Avatar who is happy and outgoing
+the third is Spike essentially this is angry and confrontational
+and the fourth is obadia who is sad and depressive now you can very well imagine in these
+four cases the response of the Avatar would be reflective of the affective state of the
+Avatar and the personality right so if you have a happy outgoing virtual Avatar so it's possible that the effect which
+is induced into the user who is interacting with the puppy happy Avatar could also be a slightly more on the
+positive effect as compared to let's say when the same user is interacting with the fourth one
+obadia where the virtual avatars personality is a bit sad right so the
+response from the user against the conversation which is going to happen with this
+fourth Avatar could be a bit neutral or could could be a bit negative right so the personality is going to affect the
+conversation further guys in cement all interactions they were annotated by two to a Traders
+in four dimensions in continuous time and continuous value now these four dimensions are arousal
+expectation power and Valence typically when we were discussing about the
+emotion analysis from faces earlier or emotion analysis or from voice we were talking about either the categorical
+emotions or we were talking about valence and
+arousal two Dimensions only in this case the authors they also got
+labeled expectation and power as well now the rational is as follows if you
+have four dimensions they account for most of the distinctions between everyday emotion categories so you can have
+fine-grained emotion labels when you are having four dimensions to represent the emotion
+now here V A of i v e of I and p a i here are
+indicating the ratings which was given to a particular sample
+by rated I and the dimensions in the superscript are representing the four
+dimensions of the emotion now guys let's move to another Benchmark
+which is very commonly used in the affective Computing community
+now this Benchmark is again based on a series of challenges which are hosted by
+researchers so this one is called the emotion recognition in the wild
+and recall in the while here simply means you have challenging
+conditions which are representative
+of real world scenarios
+now let's discuss about emotive so emotive has several tasks for effect
+analysis we are going to talk about the audio visual emotion recognition task now this is based on the active facial
+expressions in the while database which we collected from
+high quality Hollywood movies which is based on parsing
+of captions essentially captions which are available for
+viewers with hearing disability so we pass those captions we got those
+sample videos which could contain a user or group of users showing some emotion and then the labelers they had the final
+label for each video now the
+emotive challenge based on the audio visual emotion recognition task has seen a
+healthy representation and participation from both academic and Industrial labs
+now the task is you get one data point data point is Audio Visual
+and you predict the category of emotion what is also available along with this
+audio visual data is metadata which tells things such as the age of
+the subjects in the video or the gender now the metric of evaluation
+is classification accuracy
+so here you see the classification accuracy which is uh comparative of the different methods which were proposed in 2018 so this is around 2018.
+now the point to note here friends is the highest performance is not
+really high so this was a categorical emotion task still we are around 61 percent
+classification accuracy now there are several reasons we have a multimodal emotion recognition system so all these teams they propose
+different multimodal emotion recognition systems analyzing audio and video some team also added text analysis by doing
+speech to text from The Voice part of the video but the reason essentially for this
+performance is that data is limited
+around 4000 videos now given the very varied
+environments you know which are reflected in the videos because the videos in the data set are collected
+from Hollywood movies the limitation of the data and the intra
+class variability introduced you to the different
+environments that makes the task non-trivial now similar to the emotion recognition
+in the wild challenge is a very successful and extremely well used benchmarking effort called the
+audio visual emotion challenge now in the audio visual emotion challenge there have been several tasks similar to emotive now here is one such
+example where friends you can see the four different dimensions of continuous
+emotion and the low and high intensities for the same you can actually make out a difference
+the visible difference between the facial expression when let us say the arousal is low or arousal is high right
+now the Iraq challenge the audio visual emotion challenge
+not only had the multi model task or your visual task but unimodal task as well which were based on the Acoustics
+linguistic and the visual cues coming from the data now in order to obtain the binary labels
+for the Avec data the average value of each Dimension over all letters was computed ok so this is
+again coming from the cement data which resulted into continuous time real variables
+which are V A a v e v p and VV and again Guys these are representing the motion dimension
+now further to get the binary labels mean of the average ratings over all interactions in the data set was
+computed which resulted into these scalar values now if you recall from the earlier slide you had low and high
+just binary labels right these binary labels were essentially based on thresholding
+the values which were based on the mean of all the labelers who labeled a
+particular video sample further for Havoc the video streams they were segmented in two ways
+first is frame level now you would like to analyze per frame for the video only tasks
+the second is you there was a word level segmentation so per word for the audio and audio visual tasks
+now here is an example of the future level Fusion based task for Avec so
+friends what do we see here we have our audio visual signal coming in the video part the audio part
+now the audio part that is input into a library to compute the prosodic features
+and in parallel the video part has object detection
+to detect the location of the face and then from that the features are extracted further the features which are coming
+let us say F1 and F2 for eyes and different parts they are all fused together so here you have feature fusion
+and then there is a classifier to predict the binary label now what we are going to do from this
+point is we are going to look at different works which are proposed in the literature
+and we are going to see how researchers propose these multi-model effect recognition systems which are combining information at
+different level now the first one for future level Fusion friends I would like to discuss
+with you is the work called video based emotion recognition using deeply supervised neural networks so this is
+actually a work from fan and others in 2018. now notice there is only one
+modality in this work so that is video however there is Fusion happening at multiple levels how is that
+so here you have an input phase now the architecture is going to have
+the phase represented at different resolutions or different scales
+so essentially we are going to mimic a gaussian pyramid
+where you say well I have the smallest resolution of the image one a larger resolution version of that image then a
+further larger image and then the largest the aim is this was the original image which I had got right so I was down
+sampling as ever going up now at the bottom of this pyramid I would be able to analyze micro
+level information from the perspective of phase think of it as the twitch subtle Twitch in the
+corner of the eye as we go up this pyramid we have the macro level information
+which will give you let us say the just the phase tensor face and if it was smiling a stretch of the region in the
+lower half of the face now the authors they introduced the concept of scale within the network itself wherein when
+the input phase comes in you have a series of convolution layers then you have these down sampled versions of the
+feature Maps now what we are doing here is we are actually learning to predict the emotion from each scale feature Maps
+individually so you can see the loss here and in parallel we are also combining the
+feature Maps so all of these go together and they are fused so this is the
+concatenation which is happening okay and this is the final Fusion loss so essentially first you fine tune you have
+discriminative representative features at each level and then you are doing the fusion
+now friends let's move to another work so this is a non-deep learning based work bicycle and others so this is called multiple kernel learning for emotion
+recognition now let us look at how information is fused in this part here you have the
+input audio visual sample we do object detection for getting the face we track the facial points so here
+you can see the facial points so as you have already seen in the tutorial for the automatic facial expression
+recognition there is just several open source libraries for object detection and facial Parts detection so you can
+use that also is used one such library and then they have the aligned faces as input
+what they are doing is they are Computing a scale invariant feature transform a hand engineered feature
+in a bag of words with framework we have discussed this in automatic facial expression recognition then they want to analyze the whole scene so this is another hand engineered
+feature called gist along with that they have the audio feature okay so they're extracting audio
+features and then they also have spatio temporal
+features which are inspired from your local binary patterns now what do we have here we have these
+set of features audio visual features which are extracting different type of information so to combine them the
+authors they would apply different kernels to each of the individual features and then learn
+together a multiple kernel learning based support Vector machine to predict the emotion classes
+now in this case the fusion essentially happens at the kernel level
+now these were some examples of early Fusion let us look at some examples of late Fusion
+you have again the audio visual signal coming in you extract some audio features you have a classifier here could be your support Vector machine
+your hidden Marco model which gives you the emotion classes
+in the form of probabilities in parallel you have the visual Channel similarly you extract the features then you have these classifiers again these
+give you the motion classes now you can do to say two things you can have dcn rules for example applying and
+or a kind of gates to the different classifier outputs or you can have a classifier so
+you can combine the output of all these classifiers and learn a classifier on top of it to get the motion class
+now the first work in this which I would like to bring to your attention is from Liu and others from 2018 now let's see
+how the fusion is done okay so you have a audio visual sample again let's look at the first video you
+do object detection what the authors do is they first look at the facial Landmark points which tells you the location similar to how we
+saw in the earlier works and then they are Computing the mean Max stand deviation for all the frames and making
+a one zero two feature dimension for each video then they use a support Vector machine and here is their emotion classification
+so these are the classification results for emotion when the video is analyzed based on the facial points
+the second is we take the face we then have different pre-trained networks so these are pre-trained
+communication neural networks we extract the features and then we are learning a support Vector machine individually for
+each of them again what do you see friends series of predictions of emotion based
+on these classes now the Third is you take the faces
+you input into a vgg pre-trained network so again a phase based communication neural network
+and then you have a recurrent neural network for each of them separately which gives you the predictions
+now let's look at the audio you have the audio Channel The pre-trained Sound net is used you have a series of fully connected layers you get the predictions
+so look at the levels at which we have got the emotion classes now what we are doing we are combining them together into
+a grid and then we are combining them with weights so this is the decision fusion part so
+we optimized the prediction for each feature which we are extracting here
+and once we got the predictions we are then fusing them with different weights so with empirical evaluation with
+experimentation researchers realized for example this performs better as compared to this so let me give more weightage to
+this pipeline as compared to this pipeline and then you can do the combination with bits
+now here is another work for Fusion you notice here this is group level emotion task so now we are going
+to talk about when in a given sample you have multiple people now this work is from give and others
+and the authors they propose the use of face level information scene level
+information the body pose in the form of skeleton and the visual attention so let's say here you have a sample
+frame this is the input frame what you see here is the facial structure so this is the facial structure and the lines
+here are telling us about the body pose right right so along with this the user
+is also analyzed by using object detector so you can see here for example there's a tall building in the back and
+then this person is wearing a black pant blue jeans and so forth so these are the visual attention
+based attributes about the scene and the subjects
+so this gives you the information about the context
+right where people are who these people could be or from the identity perspective but from the perspective of
+attributes such as young people or age people could be school going students or
+could be colleagues in an office right so face detection is used you get the faces
+seen as the whole image then you have the body pose and the face structure and visual attention so these are the input
+you have the vgd pre-trade face model which is used to analyze the faces then
+you have the scene based model which is looking at the whole image to get the
+different attributes further the skeleton body pose arm up arm down and
+all this is analyzed and then the visual attention again this gives you the attributes later the predictions are fused here to
+get the final result now let's look at another work for Fusion friends this is multiple spatio
+temporal feature learning for video based emotion recognition in the wild in this case here you have the faces we
+do some pre-processing and you see three different type of networks now notice this is again a record neural network
+where the feature to each cell is the a feature which is extracted from a pre-trained vgg network then you have a
+resnet based Network again a record neural network this is a bi-directional lstm and here the authors have a 3D
+conversion neural network okay now you get the scores from each of them and we are going to fuse in parallel we have
+the audio information we get the spectrograms we input the spectrogram into the
+pretrained phase vgg Network we have by rational STM we get this course we do the Final Fusion ok
+and here W1 w3w4 are signifying the weights for these individual feature based scores
+hich we get from the classifiers of these features now here is another work from 2016
+friends called multi-q Fusion for emotion recognition the wild now let's see what is proposed in this case
+here you have the input video and the input audio you again detect the landmarks you get
+the facial points where are the different facial paths you create trajectories of these landmarks OK you can so you can create
+how are the facial point changing over time right you input that into a convolution neural network
+separately you also again extract VG phase now you would have noticed vgg face
+and vgg based pre-trained Network that is very commonly used in the
+community for face analysis simply because these networks especially vgg phase that has been trained on
+millions of face images so it has very rich representation with respect to the different attributes
+of faces now coming back we have the vgg features we are in extracting these features separately for each frame then we have a
+record neural network okay now this gives you the scores here similarly we already had the scores for
+the trajectories now coming to the audio you have open smile with features now open Smile Again is a very commonly used
+library to extract the features you input that into audio configuration neural network and what you're doing is you get the scores these scores and then
+others quote from trajectories by using support Vector machine and then you are fusing them to get the final
+emotion class now here's another work friends by nimati and others
+his is called a hybrid latent space data Fusion method for multi model emotion recognition let's go through this you have the input
+sample you extract the visual features you extract the audio features what you also do is
+you have some textual data now if you notice these are some comments
+about the video now you extract visual features audio features and you also start textual features now notice the different level
+of fusion which is happening what the authors proposes first we do a Fusion of the audio visual set
+data and then we have a common classifier for predicting the emotion from the audio visual Fusion only so
+this is like a feature level Fusion which happens first okay so notice this is feature level for audio and video
+separately for the text data we do the text classification and get the emotion now we have emotion information from
+this part emotion information on this part what we are doing is we are doing decision level Fusion you know a late Fusion to predict the final emotion
+label now interesting thing to note here is the Audio Visual
+data is more similar in terms of frequency as compared to audio and text or video and
+text even though audio video data is very different but relatively right so the authors when they experimented with the different combinations here they
+actually come up with a hybrid solution right for some part of the features they have feature level Fusion they get the prediction from that and then they fuse
+at the decision level after they get the scores from all the different features
+now lets look at examples from the audio visual emotion challenge friends so in this case if you look at around
+layer work in 2013 very similar to the pipelines which we have discussed in now you have speed signals you have video
+signals you extract your standard mfcc feature and what you're doing here is you're doing automatic
+speech recognition now this will give you some linguistic features the content what is being
+spoken and from the audio features you will get the rich features for example again you know mfcc your fundamental
+frequency intensity and so forth for the video you extract video features and then you are combining them together
+into a bi-directional lstm to predict the final emotion now the author is in a very comprehensive
+analysis within this framework to see how useful feature selection is going to be when we have these different
+odalities coming in now here friends you see the different classifiers
+here we have the four dimensions for continuous emotion and here is the mean
+result okay now for example notice here the weighted accuracy for lstm based
+classifier then the feature is only audio is highest for arousal however let me bring the discussion to
+the bottom part of the table here when you have again your lstms here you are not doing any feature selection you see
+when the combinations are there for the audio video audio linguistic and video the performance is the highest so what
+do we understand feature Fusion is helping and even though we are not selecting discriminative features even then we see
+an increase in performance however recall that one of the challenges in creating a multi-model
+motion recognition system is that when we have data coming in from different modalities we would like to
+extract the unique information from these modalities which can be complementary to each other so that we
+can do a more robust prediction if we have overlapping information then we
+can have a long Dimension feature let's say if it was feature Fusion which could have a lot of overlap but unnecessarily
+we may be going into the curse of dimensionality now in this interesting work from Evac
+when no feature selection was used we observed weighted accuracy was highest for acoustic features only this also shows audio is the most
+important modality for arousal further the classification of expectation Dimension it seems to
+benefit from including the visual information so when we do the fusion for the power emotion Dimension it is
+best classified by speech based features further the authors notice that unidirectional modeling of the weighted
+accuracy it significantly increases when this linguistic features are also used along with audio so the fusion here
+is not only about the audio features but also what is being said the contextual information which you are getting from linguistics
+for the valency motion Dimension when we include video that increases the weighted accuracy
+now when feature selection is used notice how the performances have gone up when you have a biot Russian lstm this
+is Audio Plus Linguistics notice how now we are into the 70s with respect to the weighted accuracies and the unweighted
+accuracies right so same is observed for when we have the fusion for audio Linguistics and video the performance
+ctually goes considerably up so that means feature selection is an important step when we are going to do Fusion of
+data coming in from different modalities now some other points with respect to the feature selection it was noted that
+for most settings it did not improve the average weighted accuracy okay however
+for recognition on video only it leads to a remarkable performance gain increasing the mean weighted accuracy
+by 5.4 percent now some other interesting discussion take away points from the audio visual
+emotion challenge benchmarking friends audio features lead to the best results for arousal classification we have seen
+that across different works for classification of expectation facial movement features were very useful
+for power emotion Dimension audio visual classification with latent Dynamic conditional random fields which was
+proposed in 2011 by Ramirez and others that was the state of the art in 2011 for the valence the audio features lead
+to the highest accuracy now if you notice these are the findings from the different works because Avec
+is a benchmarking effort which has different tasks so all
+these are different papers different methods which were proposed through the analysis on the rich data
+which is part of epic now I would like to change the discussion a bit
+and talk about methods where we are doing Fusion for which sensors right till now we are talking about audio and
+visual data primarily now here is a work from subramanya and others now this is essentially the researchers were interested in emotion
+and personality okay so they collected a very rich data where they had a series of
+physiological sensors which were attached to the users who were looking at videos
+so here you have 58 users the group get 36 videos each physiological data was recorded
+they gave effective rating to the videos and their personality traits were also evaluated now what the researchers did
+they computed the correlation between the personality traits and emotion
+along with two other attributes which are liking and familiarity now they noticed that you could actually predict
+the personality and the effect by looking at physiological sensors by doing the fusion of the data coming in from these
+sensors now this work is called a certain and this is a very commonly used affect
+recognition and personality recognition data set when it comes to physiological data now friends let's look at another work
+where multiple sensors are used for effect this is from Park and others here you see two subjects who are doing a
+conversation now the subjects have a head mounted camera they have a mind wave headset this is the EEG and then
+they have a heart rate sensor and The impatica Wristband so we are data coming in from different sensors
+now this work called K emocon so essentially this is a continuous emotion based data set where the conversation
+between the two people it happens in a spontaneous naturalistic fashion now
+if you look at one of the works for fusion with sensors another work here let's say you have the facial video here you have the EEG signal
+we do the object detection we then have a pre-trained network in parallel what we are doing is we extract the features
+which are coming from the EEG data then we have a EEG Network what the authors propose is they are
+using a attention Network where the input features from video and AEG are inputted
+and further the outputs you can see here they are predicted for each EEG and video separately and then Fusion is
+happening now friends
+this brings us to the end of the second lecture for multi-model emotion recognition
+what we have seen in this lecture is different methods which have been proposed for affect prediction when the
+data streams are coming from different sensors for both early and late fluent strategies

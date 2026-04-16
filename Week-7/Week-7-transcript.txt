@@ -1,0 +1,359 @@
+Week 7 Lecture 1
+
+
+Welcome Friends so in today's class we are going to look at the emotions in physiological signals
+a very interesting and in fact very dear to my heart kind of topic so here is the agenda for today's class in this class
+we are going to first look at why we are we have we are interested in looking in the emotions in physiological signals
+and what are some of the relevant physiological signals we will be looking at the emotions in heart and not only
+metaphorically but also physiologically and also we will try to understand the emotions in another very popular
+physiological signal which is known as the skin conductance and finally we will also look at the emotions in EEG signal
+which is commonly known as the brain activity signals and finally we will conclude with the discussion of some
+additional physiological signals that can also be used for recognize for the IMO emotions for understanding and
+analyzing the emotions perfect so let us start first with the trying to understand the physiological
+signals itself so first thing that we have to understand that the physiological signals they originate from the activity
+of the autonomic nervous system and hence it cannot be triggered by any conscious or intentional control now
+without making so many jargon and making use of so many jargon words what essentially it means that it cannot be
+controlled or figged or it cannot be consciously produced for example the way we can do with the facial expressions
+and in a since it cannot be consciously or intentionally controlled so what it means that you cannot fake it I mean we
+cannot easily at least we cannot easily fake the emotions that are getting produced in the physiological signals
+and in fact that is what has given a rise in the popularity of the emotions in and physiological signals and its
+analysis so other important characteristic related to the physiological signals and
+emotions is that it does not really require the user to pay a lot of attention to provide the data of the
+emotion that is there in the physiological signals so for example if you want to get the emotions in facial expressions you may have to ask the
+participant or the user to you know maybe look at in a particular direction there should be certain uh standard
+etup and and this all will require the user to pay a bit of attention to you know how the user is sitting how the user is looking at the camera and and so
+on so forth but in this case nothing of this sort is required and for the same reason it is very very helpful even to
+get the emotions among the individuals those who may have some sort of attention deficiency as well
+so that was the second advantage and more importantly why suddenly there is another reason why it has become very
+very popular to analyze the emotions in physiological signals is because of the advancements in the wearable Technologies so from the recent
+advancements that we have seen over one or two decades uh the it has enabled the acquisition of the physiological signals
+such as the ones that we are going to discuss now in an unintrusive Manner and also I would say in relatively low cost
+fashion so basically this low cost and unintrusive uh possibility a possibility of capturing the physiological signals
+in a low cost using a low cost device and in an intrusive manner is what also given the rise to the popularity of the
+emotions and its analysis in physiological signals so these are the some of the
+physiological signals that are commonly used when we try to understand the emotions right so for example the very first one is the blood pressure so I
+believe the blood pressure is something that we all know and of course uh while it may not be very very expressive the emotions may not be very very expressive
+in the blood pressure there has been certain uh studies which has looked the emotions in the blood pressure of course
+then the other thing is the electrocardiogram so basically electrocardiogram it relates to the cardiac cardiac activity of the
+of the human so as you can see in the right side diagram this particular refers to the cardiac activity of the humans and from this cardiac activity
+which is from the ECG using the ECG signals we get the heart rate and then with the heart rate we can get the
+emotions that are associated that are expressed in the heart activity of the humans other is very very popular method
+is again is the electroencephalogram so basically electroencephalogram is also known as the easy signals as you can see
+on the right side of the screen so basically easy as you can understand that basically to analyze the easy you need to we attach a cap kind of thing on
+the head of the humans and then we try to with the help of certain electrodes we try to capture the brain activity of the individual and through which we try
+to analyze the emotions so that is the easy signals other thing is the electromyogram so basically
+electromyogram it basically refers to as you can see here so this is the what is referring to the electromyogram so basically electromyogram it refers to
+the activity of the muscles right so basically again it involves attachment of some electrodes to the body to the muscles and through which we try to get
+a certain expression of the body posture through which we can in turn get an understanding of the emotions not so popular method when it comes to the
+emotion analysis but nevertheless this is another option another very popular method is the galvanic skin response so basically galvanic skin response as you
+can see here in the right side of the image galvanic skin response it refers to the skin conductance it is also known as the
+skin conductance or the electrodermal activity it refers to the skin conductance or the conductance of the skin as the name implies of the human
+body through which we can understand certain components of the emotion such as the
+arousal and and so on so forth so again we will look at it in a bit more detail and nevertheless of course the other
+component is the respiration respiration is of course is the is the respiratory activity of the humans so we all have
+seen that you know the respiration itself may change depending upon the type of the emotions that we are experiencing to certain to a good extent
+and hence it has also been used in research in literature to analyze and understand the emotions nevertheless
+again last but not the least is the temperature of the human body so the temperature of the human body it has also been found to be correlated with
+certain expression of the certain types of emotions so nevertheless I mean this is by no means this is an exhaustive list apart from this for example you can
+also look at the EOG signals which is the activity of the human eyes similarly for example you can also look at the
+Gaze patterns by looking by making use of the eye tracking devices and so on so forth but nevertheless for the sake of this course mostly we will try to stick
+to the ECG signals we will look at the easy signals we will look at the GSR and of course by the virtue of the ECG we will also look at
+the heart rate right so these are the few signals that we are going to analyze and more or less many of the findings can be extended to the other signals as
+8:018 minutes, 1 secondwell perfect so with that let us try to look at the emotions and how it is being expressed and how that can help us in
+the analysis of the emotions in the in the heart rate perfect so um about the heart rate we
+all uh the reason I'm Focus the heart has been shown to be metaphorically correlated with the emotions in so many
+ways in poems in literature in arts in in in movies uh but but the physiology
+says that it does not only relate to the emotions in a metaphorical way but definitely released in a physiological
+Manner and the reason that it relates and one of the reasons that it relates to the emotions is that the activity of the heart it also interacts with the
+brain and ultimately it impacts how we experience an emotion and one of the best example of this particular is
+and that imagine that you are giving a presentation or for example you are doing a lecture such as myself now and
+you are trying to recall something that you have to present during the presentation in front of an audience or for example even in an online setting so
+and then if you are not able to recall that then imagine what what happens imagine it's a big audience it's a very important presentation so what happens that suddenly you start feeling anxious
+you start feeling aroused and then you know you start feeling sweaty actually you know the it's like uh that there is a proverb that you know like you start feeling sweaty here sweatiness lots of
+sweatiness and and that is how you know so in this particular activity if you if you try to analyze it then using your brain your while your brain is trying to
+recall uh some stats some facts at the same time your heart is getting the signal from the brain that okay
+maybe it's not able to recall and and then since it knows the importance a membrane also communicates the importance of the presentation for you
+so accordingly it tries to uh it emulates the experience the experience that that we are having as of now uh in
+front of the audience and hence we start feeling the sweatiness or even our heart rate starts uh increasing right so that is one very good example of how the
+activity of the heart it also correlates with the activity of the brain and and how overall it impacts the emotions that
+we experience uh specifically the heart rate usually has been shown to have a very good
+correlation with the arousal uh if you recall when we were looking at the arousal and the valence and the dominance model where you are the PID
+model which is the dimensional model of the the emotions then arousal was the component which was sort of giving you
+the energy that was there in the present in the in an emotion so basically this heart rate has been shown to have a good correlation with the arousal and hence
+it can help us in so many ways in trying to understand the emotional state in in a very good detail
+uh overall it's not hard to realize that the heart rate has been shown to be a
+good indicator of the overall physical activation and the effort so imagine you know if you are simply walking your heart rate is steady and smooth but the
+moment you start running of course you can immediately notice an increase in the heart rate activity right and then for the same reason it's not very hard
+to understand how it is can be an indicator of the overall physical activation and the effort nevertheless uh it has when it comes to the emotional
+activity it has also been found to be correlated with the fair Panic anger appreciation
+Etc right so these are some of the feelings and mostly while trying to analyze this thing we try to look at the emotional
+arousal from the using the heart rate now having understood that how heart
+rate can help us in analyzing different emotional states particularly emotional arousal let us try to understand how can
+we measure how the heart rate is measured so many of you have may have seen uh the use of the ECG for example the electrocardiography
+electrocardiogram for measurement of the heart rate so basically ECG you may have seen that it is
+the way is easy measures the heart rate is it monitors the electrical changes on the surface of the skin and many cases what happens that there are multiple
+electrodes usually four electrodes which are placed on the four different parts of the human body and for example one particular scenario where it is placed
+on the palm such as if you can see in the image so for example here one electrode on the right arm one electrode on the left arm one electrode on the
+right leg similarly another electrode on the left leg so this is what a four electrode configuration is that is commonly used similarly other
+configuration that can be used for example Electro here one electrode here one electrode here one electrode here and this kind of configuration is also
+used to get to monitor the electrical changes that is there on the surface of the screen through which we try to
+observe the heart rate we try to get the heart rate now of course the question the next question that you would like to ask that the amount of the electricity
+that we observe on the human skin is it too much and of course it is not too much we are not uh we are not a walking
+electrical Transformer right so the even though the electrical current is very very small is it is in
+micro volts but the the the the electrodes that we use in the electrocardiography are designed in such
+a way that it can pick this even the small uh changes in this Electrical uh small electrical changes on the skin in
+a reliable fashion and that is how we measure the heart rate uh of the human body another very popular method is the
+use of the PPG signals which is also known as the photoplethysmography so in the photo of platysmography or the PPG signal what we
+do we measure the pulse signals uh at the various locations on the body and usually for example it is very common to
+attach a a PPG clip on the on the on the lobe on the fingertip or for example
+even on the earlobe or for example on any other capillary tissue such as you know on the legs as well so if you look at this diagram on the
+right hand side the way a PPG clip is attached what it does it makes use of the dry sensors which usually consists
+of some LEDs some IR LEDs and some photodiodes so basically what happens that the IR LEDs it emits the it emits
+the light and then of course depending upon whether the blood is actually flowing through the veins at that particular time or not the amount of
+lights they get absorbed by it and then accordingly whatever is the remaining light that is collected by the
+photodiode that is beneath this PPG clip now of course depending upon how many how much light it has emitted and how
+much light was collected it could really analyze that ok whether the blood was flowing or not and of course uh when the of course when whether the blood was
+flowing or not what it means that of course when your heart pumps the blood I mean it has to go at certain point then of course then then it stops for for a
+very few amount of time then of course it pumps then there is a rise in the blood flow right so basically this is how these are the two configurations in
+which desire LED and the photodiodes are placed in the PPG clip and that is how it measures the flow blood flow and and
+then accordingly tries to estimate the heart rate of the human body and then this is the same kind of PPG clip you may have seen which has been very very
+popularly used for example in the oximeters as well so you may have seen the oxymeters and then you simply place the oximeter in one of your fingers fingertips and then you get the heart
+rate from from there so this is again and as you can see that this is of course the attachment is much much quicker than in comparison to the ECG setups in the ECG setup you need to use
+16:0116 minutes, 1 secondthis four electrode system it's a kind of very intrusive and of course in comparison this PPG Clips they are relatively easy to use
+and they are of course less bothersome or cumbersome for the participants and hence they are a bit more popular for
+the analysis of the heart rate signals than in comparison to the ECG but we will talk down the line that uh of
+course it it it it it compromises the efficiency of the uh the the the how effectively it is calculating the heart
+rate and the Precision of the heart rate essentially so but nevertheless it's a it's a popular choice for the analysis of the heart rates so these are the two
+popular methods through which we observe the heart rate in the physiological experiments uh and then of course now once we have observed and and obtained
+the heart rate then there are certain parameters that we can use uh to analyze the effects of the heart rate right and of course one simple parameter that we
+can talk about is the heart rate itself so basically the heart rate it is typically expressed as the beads per minute and as we already understand by
+heart rate what we simply mean we simply mean the frequency of the complete heartbeat from generation to the beginning of the next within a particular time window
+right and then we have already seen that an increased heart rate for example it typically reflects increased arousal so as I was giving the example if you're
+giving an presentation in front of an audience and you are not able to recall certain very important fact or some some some some some states that you want to
+present and immediately you will feel aroused and you will feel aroused and accordingly you will feel that there is an increase in the heart rate
+sorry uh other and of course this is the raw data that you have other very com commonly used data is the
+interbeat interval so basically the interbeat interval as the name itself suggests rather than looking at the how frequently the heart
+beat is is occurring what it simply looks is at the time interval between the individual bits of the heart rate so for
+example One Beat another bit so what is the time interval between these two Beats and usually this time interval is is
+measured in units of milliseconds just one sec
+round um
+um foreign
+so usually it is measured in units of milliseconds as opposed to the frequency uh that as we see in the heart rate
+but these two as you can see this is the raw data itself and the raw data itself many times it does not give you a lot of
+uh information hence there is another very popularly used ah parameter
+which is the heart rate variability which and the heart rate variability basically has the name itself suggests it expresses the natural variation of
+the intervene values from the bead to beat what it simply means as you can see in the diagram that is given below so for example this is giving you the this
+particular diagram is giving you the data of the two and a half seconds of the heart rate heartbeat data right so if you can see
+this is the one particular heartbeat I mean it is so basically this is uh this is a typical ECG signal and how they
+typically CG signal looks like so in the typical ECG signal apart from the p and the T waves so you have this QRS wave
+which is the Central and most uh visually obvious part of tracing the ECG signals so basically in the QRS signal
+what you have that it represents the depolarization of the right and the lift ventricles of the heart and at the same time it represents the contraction of
+the large ventricular muscles so basically this is the most important part of the ECG signal that we use to analyze the
+ECG abnormality and so on so forth so now okay and together this QR signal it occurs together as an event and hence it
+is referred to a single uh QRS waveform so in the queue so basically one heartbeat you can represent it as a single QRS waveform so now the uh this
+one single uh now the intervene interval essentially what it represents it represents the distance between the one uh R interval from the one one one one
+are uh one R of the one waveform and from the end there are of the next waveform right so basically the interbut
+interval is represented as let's say 859 milliseconds here and then 70 of course it can be translated to the beats per
+minute which is uh of course you you simply have to divide uh the if the interbed interval is the 793 milliseconds then how much is going to
+be the uh uh the the beats per minute and then for example if you take the example of the 793 that if the interpret interval is the 793 milliseconds then
+what is going to be the bits per minute so it simply has a matter of time you know so you can simply take that okay uh one second is equal to thousand
+milliseconds and then there are 60 seconds per minute so basically if you divide 60 into 1000 divided by
+793 here then you will get something around 7 76 bpms around 76 beats per
+minute and that is how you calculate how much is the bits per minute right so basically this heart rate variability what it essentially gives you it gives
+the variation that is there between the interpret values from from B to bit or from one R uh wave two another one RP to
+the another RP so for example you if you can see that while the first one was 859 milliseconds uh the intermittent interval for the second it was the 793
+milliseconds and the for the third it's 720 milliseconds so there is a variation between these uh between the times at
+which these beats are occurring right and and it turns out that the heart rate variability is a very very important parameter uh when it comes to the
+analysis of the emotional arousal as well as the emotional regulation so for example it has been found to that
+heart rate variability to decrease under the conditions of the acute time pressure and the emotional literacy stress what it means that the heart rate
+is heart heartbeat is more consistent when we are under a lot of stress now that may sound a bit um unnatural uh but but what it simply
+means that you know whenever you are having a low heart rate variability then it simply means that you are not able to
+23:0023 minutescope up with the stress because in order to cope up with the stress or in order to cope up with some physically arousing
+uh event that is happening around you you need for example you need to have more uh supply of the blood from your
+heart and accordingly the heart rate should pump at a faster rate right accordingly for example let's if you are relaxed it should be pumping at a lower rate so there should be a good
+variations in the uh heart rate at which the heart rates are coming but when there is no variation low heart rate variability means there is no variation
+or there is very very less variation in the heartbeat and accordingly what it means that you
+remain stressed you remain aroused and and then you uh and you are not able to cope up with the conditions that are
+happening around you similarly in contrast uh if you have the higher heart rate variability so not not the higher heart rate but the higher the heart rate
+variability so higher hydrated variability says shown to be correlated with the a relaxed position what it simply means that your body has a strong
+ability to tolerate uh stress or or has is already recovering from prior accumulated stress so and and it
+has been found you can you will see n number of studies you can come across n number of studies which has consistently
+consistently shown that a higher hearted variability is of course desirable now I think you have understood that but more
+importantly if you have uh the more healthier you are at least the more healthier your heart is the more healthier you are at the emotional level
+the higher the heart rate variability you will have not the higher heart rate but the higher heart rate variability
+you will have and and it has uh it is such a powerful source of information uh when it comes to the analysis of the
+emotions in not only the emotional arousal but the emotional regulations so we will see a very beautiful example here so for example imagine that there
+are two conditions one is the condition a we will call it this is the condition a and then we will call there is another
+condition B now of course uh the the what the the waveform that we are seeing here what it is giving you it is giving
+you let's say the ECG data for certain condition a for a certain period of time and for the same period of time model is
+the uh this B is representing the ECG data for the condition B of course you can see now that this is the this is what this is nothing but this is the QRS
+wave right so you can see that this is the queue this is the r this is the S so basically for the analysis purpose as we say we simply look at the
+and the R2 R interval inter the distance between the R2 are bits and and and and and and accordingly we try to analyze
+the beats per minute perfect so now let's say this these are the two conditions A and B and from the look at from looking at the heart rate we are not able to make much sense out
+of it uh but of course since we have this interbuate interval what we can do we can calculate the average uh uh RR uh
+distance for the condition a and as well as for the condition V now I I hope that this is not hard to understand that how did we calculate so for example if we
+were to calculate the average for the condition a then you can simply do it as a for example the average
+R A will be represented as 744 plus
+427 so 744 plus 427 plus 498
+plus 931 right so basically all together uh if you look at this and then if you were to
+divide this by 4 then this is how you are going to come across 660 milliseconds and similarly you can calculate it for the B condition as well
+and now one interesting thing to observe when we are calculating the average uh let's say RR for a condition a condition be that for both the conditions we are
+getting the similar uh values 650 milliseconds for condition a 650 milliseconds for the condition B so in
+this case we are not able to make much uh make we are not able to make much information out of it now let us try to look at another
+interesting characteristics uh which which is using the heart rate variability which is known as the rmssd
+so basically R is okay so this is represented as rmssd so basically rmssd as the name itself says it means the root mean
+square of the successive differences and the way it is calculated that you simply calculate the square of the the the the
+the the sum of the square of all the RR intervals so for example you calculate R1 minus R2 Square similarly R2 minus R3
+Square so on so forth you take a mean of it and then you simply take a square root of it right so that is how it becomes root mean square of the successive
+differences and then it turns out that the rmssd has been found to be more informative than let's say the average
+uh RR interval so in order to get the root mean square of this thing let us try to calculate uh so the way for example we will calculate the rmssd let
+us try to calculate the rmssd for the condition a so if you try to calculate the RM SSD for the condition a this is this will be equal to
+um we will have to do 744 this is 744 again minus
+427 the whole square plus 427 minus 498 of course since we are taking the whole
+Square so it does not matter whether we are subtracting the smaller from the bigger or the bigger from the smaller plus 498 minus
+9 31 the whole square and of course you will have to take the uh first you will have to take the mean of
+the entire thing so mean will is going to become the you will have to take the mean and then you will have to take the square root of the
+square root of the entire thing so let me try to view the complete formula right so this is how more or less it is going to look like so if you were to uh if you were to
+let's say I I will try to just you know summarize it here so if you were to take the square root and the average of this thing then what is going to turn out to
+be so for example if you look at the 754 minus 427 Square so this will turn out to be 317 the square plus 427 minus 498
+it will become 71 square similarly 498 minus 931 it will become 4 3 3 the whole
+Square right and of course all you will have to take the the average of everything so basically
+this will be the average by three so all together it turns out that it is going to become
+uh if you take the average if you take some some sum it up and take the average then it is going to it will be it will become equal to the square root of
+9 7 6 7 3 and then it is going to become
+equal to around 312.5 five two six which you can roughly say
+that it is becoming it is equal to the 313 milliseconds perfect so this is how you calculate the rmssd for the condition a similarly you can calculate
+the rmssd for the condition B okay so let me just try to rub it again so that you can very clearly look at it
+I hope that you can understand now that how to calculate it right so then what you have that you have the similarly you
+calculated the rmssd RMS rmssd or rmssa for a and in the same way you can calculate the rmssd for the B so for the
+B what you will have to do again you will have to I will just write it down for you and then the rest of the things you can calculate easily so it will become
+630 minus 675 Square please pay attention that this is I am calculating for the B
+and plus 675 minus 6 45 the square plus
+31:0131 minutes, 1 secondand of course this divided by 3 right so if you were to calculate this thing this is going to come out as 31 milliseconds so now we have some interesting results
+here for the RM SSD one and two so again to highlight we have uh condition a condition B when we calculated the average RR values for both the
+conditions we got exactly the same values even though the conditions are different but when we calculated the
+rmssd so the RMS SD for a it came out to be 313 similarly RMS is D for B it came out to be 31 so definitely now we can
+observe a clear difference between the condition a and the condition B now what can we say from the difference between
+the condition a and the condition B so since the condition B is representing
+the lower heart rate variability please pay attention to this thing condition B is represent this is what this is representing the heart rate variability
+right so the condition B is representing the lower heart rate variability and we already know that the lower heart rate
+variability is uh is associated with the more arousing condition right so for the same reason we can conclude that the
+condition B in this case is physiologically more arousing than condition a of course assuming that this both were observed in in the standard
+conditions and from the same participant right so for example this is very nice example of how where the heart rate
+simple heart rate cannot distinguish or discriminate between two conditions the heart rate variability can easily do so
+now let us try to look at some of the factors that we we left before that we already know that there are two ways in
+which we can capture the heart rate we can capture the heart rate either using a ECG or we can capture the heart rate using the PPG now we already talked
+about that how the ecz is is bit more accurate measurement of the heart rate than from the PPG but of course we already saw that it's a bit intrusive
+and it's not very comfortable for the participant so for the same reason the PPG based measurements have been used very
+commonly and it has been shown that if we can take the longer time windows for the analysis of the heart rate uh for
+the PPG signals as derived from the PPG signals then it can give some accurate estimates of the heart rate so for
+example one common rule of thumb here is that if you can take the data of at least five minutes that is roughly
+corresponding to 300 samples if we take 60 beats per minute then roughly 5 minutes off if you take if you do the analysis of the heart rate over a period
+of five minutes as collected from the PPD signals then roughly it gives you the same accuracy as the given by the
+ECG signals so that is what is one thing that you may want to keep in mind when you are using the PPG over the
+PPG based heart rate measurement over the ECG based heart rate measurement okay but and then okay so this was about
+the measurement one thing that one other important thing that we have to keep in mind that emotion is not the only factor that affects the heart rate and hence
+the heart rate variability so there are several factors including for example the age posture level of physical conditioning breathing frequency
+Etc and and many times you know so what we can call it that most many of these factors we often refer to as the Indie
+visual variability you may also have observe this term while we were talking
+about the emotions in the in the week two I believe so the individual very so for example you know like uh with the age as the age increases the heart rate
+variability it has shown to be uh decreasing and then this this is also one of the reason when uh why you will
+see that the elderly people they become anxious uh more anxious or they become
+35:0135 minutes, 1 secondvery easily anxious in comparison to the uh younger adults right so that is for example one of the reason and then similarly uh the poster of course were
+particular if you're not sitting in a in a comfortable posture itself of course you will have to put more effort your body will have to put more effort in order to stabilize you and for the same
+reason maybe the heart rate itself will be uh will be it will impact the heart rate according and so on so forth so you have to keep this
+in mind while doing the analysis of the heart rate uh while doing the analysis of the emotions in the heart rate
+nevertheless once you have overcome this thing then heart rate can give you a good heart rate can give you a good uh estimate of the emotional state
+particularly with respect to the arousal but now there is a catch while if you only look at the heart rate it can tell
+us that ok whether there is an arousal or not but it will not be able to tell you whether the arousal was because of
+the positive or the negative stimulus content or alternatively while it can tell you about the arousal it cannot tell you
+about the valence that is the direction of the emotion it does not have a lot to say about the direction of the valence
+and why simply because the both the positive and the negative stimuli they have been shown to result in an increase
+in the arousal triggering changes in the heart rate hence triggering changes in the heart rate so now of course both are triggering changes in the heart rate and
+hence they are impacting the arousal but but you don't have a way to discriminate whether the arousal was because of the negative or the positive stimuli or
+alternatively what was the balance associated with the arousal that I'm observing and hence heart rate has been shown to be closely related to the
+arousal and then it is used essentially for the analysis of the arousal only so uh as I said that it you may not
+want to use the heart rate or the ECG or the PPG measurements for the analysis of the valence when it come to the when it
+comes to the analysis of the emotions now the question is what can you do then of course in this case you know usually what we do when we try to make use of
+the physiological signals or in general any other sensor as well we try to make use of a multi-model data and in this
+case for example the heart rate can be simply combined with certain other analysis which is the facial expression analysis that you have already seen it
+can also be analysis with a a combined with some other physiological signals such as the EG or for example it can also be combined with the eye tracking
+modalities in order to understand a bit more about the direction of the emotion rather than just trying to understand
+the emotional arousal content that is there in the emotion perfect so with that we finish the part
+with the heart rate now next we are going to talk about the skin conductance and the emotions
+
+
+Week 7 Tutorial 1
+
+
+hello I am Shiva samishra in the last lecture we saw how we could use psychopy to present stimuli as well as collect
+sensor data psychopi allows us to integrate several devices to collect multiple different types of data including physiological signals since we have also seen how
+emotions can be extrapolated from physiological data in this lecture I shall explain how we can analyze electrodermal activity or Eda using
+python Eda has been closely linked to autonomic emotions and cognitive processing and Eda is widely used as a
+sensitive index for emotional processing and sympathetic activity investigations of Eda have also been used to eliminate wider areas of inquiry
+such as physiology personality disorders conditioning and neuropsychology we shall use sample Eda data collected
+through an impatica E4 device this is a device that can be worn and stream data through Bluetooth or store that data
+locally we can extract that data using an impatica E4 app and for analysis we will use flirt module in Python
+and I would be introducing you to the impatica E4 wristband data collection device the imperica E4 is a wristband
+that collects your physiological data it has a single button and a LED light on the surface and two sensor points on the back
+with electrodes that need to touch your skin when when new web device to wear the device just place it on your
+wrist with this side on the top and just make sure that it's comfortable enough
+that you can do daily daily tasks but it's tight enough that both the electrodes at the bottom touch your skin at all times
+after that we are ready to start the device start the device just press then hold the top button for three seconds
+a blue line would come on indicating that the device has started the blue light which start blinking for about 15 to 20 seconds while the device
+initializes the setup and checks all the sensors and all after the watch has finished blinking for up to a minute the light turns red
+when the light is red you know that the recording has started after some time the red light would fade
+off and the light would turn black that would mean that the data is still being recorded but the watch has turned off the right to preserve battery
+while recording you can single single press the button to Mark events in real time on the watch like this the words light would again turn on for
+3:013 minutes, 1 seconda for a small time finally to turn off the watch and stop the data from stop data recording you can just press and hold the button
+for three seconds and that's it the watch has now stopped data recording this is the splash screen of the E4 major device that you would be
+greeted by when you first log into the application on this screen you you now need to connect your device to the USB port on
+your laptop or PC I'll do that now okay now as you can see my watch is ready and I I see the one session that I
+just recorded to move forward with this I just simply click the sync sessions button and all the session will be sync and would be
+available for me to view okay now we can click the view session
+button and we can see all the sessions that have been recorded this is the session for today's date which has just been processed okay
+by clicking this button we can view more about the session yeah so this is the E4 website where all the session details are stored you can just click on the
+sessions icon and there the sessions are sorted in a datewise manner which you can see in the top left menu we just click on today's date and we can see
+today's session which was of two minutes and one second we can either download this or view this in more detail
+the red lines denote the markers that we placed on the watch by pressing the button by going back to the sessions menu we
+can download this whole session in a zip file format so after we download the zip file we can simply extract the file extract here
+and we'll see all the different modalities that the device has recorded in a simple and convenient CSV format Shivers will explain how to extract the
+data further from this thank you thank you the empatica E4 device provides us with multiple types of data such as the heart rate variability into beat intervals as well as
+electro-terminal activity for this assignment we should just be using the electrodermal activity now this data is stored in a CSV file the first value in
+the CSV file is the start time of the entire data this is stored locally on the impatica E4 or using the computer if
+you're streaming it on Bluetooth you can reset the clock according to whatever system you want by just connecting it and using the empatica app the second
+value is the frequency at which the data is collected this is in hertz so since the example for the Eda is 4 it means
+four data points are collected every second now let's move on to the code for this I shall be using Google collab
+as it is easy to use and readily available the data used is five minute sample collected during another study
+using the impatica E4 itself we will start by installing flirt module in Python
+using the PIP command this will take some time but flirt is a library that will allow you to extract
+the data very easily as well as extract the features from the same data now that this has been installed we will
+import the library we will be importing flirt Library as well as its reader we will also be importing numpy c bond as well as macplotlib to graph the data
+itself importing these libraries usually takes
+some time now that they've been imported let's import the data itself the data is stored in an eda.csv file and we can
+simply get it through a reader function in the flirt module itself upon running it and printing it we find
+that this is stored in a data frame a data frame is a panda's data type and in this there are two columns the date and
+time of when it was recorded as well as the Eda value for that since we know as we know the frequency is 4 therefore as we see every
+successive frame is at a difference of 0.25th of a second now let's just graph this data naturally
+so there are two ways we can graph we could use matplotlib or C Pawn I can show you using both so for matplotlab we will just use the plt.plot function and
+plot the Eda value in this as well as using the c bond function
+as we can see at the start there is a large vary variation this can be ignored as we usually take smaller chart next let's move on to extracting the features
+we can simply use the get Eda features function in the float module to get the features
+this will take some time now that we've got the data we can look
+at what all features it has extracted there are two main components to the overall complex refer to as the Eda
+first is the tonic level ETA this relates to the Signal's slower acting components as well as background characteristics
+the most common measure of this component is the skin conductance level or the scl and changes in the scl are thought to reflect General changes in the autonomic
+response the other components is the phasic component which refers to the signals faster changing elements
+the skin conductance response or the scr is what is the major component in this recent evidences suggest that both
+components are important and rely on different neural mechanisms crucially it is important to be aware that the phasic scr which often receives the most
+attention only makes up a small proportion of the overall Eda complex
+now let us graph the two different values first we have the tonic value as well tonic mean as well as the phasic mean
+we graph this using c bond this line plot function over here we put the x value as the date
+time then the Y value as the tonic mean upon graphing it in our case
+we obtain this graph as we can see the tonic value is always greater than the phasic value this is because as stated
+phasic values make up a smaller percentage of the total value as compared to the tonic values
+in summary what we've done is imported the library for fluid import the data which stored in a CSV
+file read it graph the base Eda data extracted the phasic and tonic levels from the Eda
+data as well as graph them using just these two basic datas we are able to extract a lot of different
+things about the data itself and we'll need to look into greater depth into these to understand more even now there is much research being
+done on the field and new advances are being made thank you for listening to me foreign
