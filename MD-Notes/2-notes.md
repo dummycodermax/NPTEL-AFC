@@ -59,6 +59,7 @@ Emotion is a complex set of interactions among subjective and objective factors,
 - Fear by Frontoparietal brain regions, HRV also heart rate variability is reduced
 
 > Lecture 3 - Brain and Asymmetry
+
 1. Fear
   - Eyebrows, lowered eyelids and stretched lips
   - Skin conductance by larger electromyographic (More means Fear)
@@ -89,6 +90,7 @@ Emotion is a complex set of interactions among subjective and objective factors,
 - But in case of anger its vice versa
 
 > Lecture 4 - Emotional Design
+
 - Creating of the design results in +ve emotions
 - Spacing, brand, colors
 - Visceral (Initial impression - Subjective - Motor output)
@@ -160,4 +162,3 @@ Emotion is a complex set of interactions among subjective and objective factors,
     - Increased heart rate and increased skin conductance ✅
     - Decreased skin conductance and reduced heart rate
     - No change in respiration but reduced HRV
-
