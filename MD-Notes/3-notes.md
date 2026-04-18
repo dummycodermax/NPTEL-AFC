@@ -176,3 +176,64 @@
 - ICT Virtual Human Toolkit
 - SOAR
 - ACT-R
+
+### Assignment 
+1. Which type of emotional expression dataset is easiest to collect but suffers from low ecological validity?
+   - Acted or posed expressions ✅
+   - Naturalistic expressions
+   - Induced expressions
+   - Behavioral manipulation datasets
+
+2. In emotion elicitation, which method involves observing film clips or images designed to evoke emotions?
+   - Social interaction
+   - Passive/perception-based methods ✅
+   - Directed facial action tasks
+   - Productive modality elicitation
+
+3. A key disadvantage of using images for passive elicitation is:
+   - Setup is too complex
+   - Emotional reactions are short and transient ✅
+   - Images cannot be standardized
+   - Images elicit too intense emotions
+
+4. Which passive method generally includes a neutral baseline clip before emotional clips?
+   - Facial action tasks
+   - Social interaction
+   - Film clip–based elicitation ✅
+   - Gesture-based elicitation
+
+5. Directed Facial Action Tasks are primarily used in:
+   - Behavioral manipulation methods ✅
+   - Passive emotion elicitation
+   - Baseline emotional calibration
+   - IRB risk assessment
+
+6. One major advantage of social interaction–based elicitation is:
+   - The emotions elicited are highly controllable
+   - It is effective for collecting productive modalities
+   - Emotions produced are realistic and natural ✅
+   - Participants do not require instruction
+
+7. Which document is required when submitting a study for IRB review?
+   - A participant payment receipt
+   - A full literature review
+   - A published version of the experiment
+   - A copy of the informed consent form ✅
+
+8. Which of the following is not a criterion for IRB approval?
+   - Risks to subjects must be minimized
+   - Adequate privacy and confidentiality protection
+   - Ensuring participants enjoy the experiment ✅
+   - Selection of subjects must be equitable
+
+9. Tools such as PsychoPy, OpenSesame, and SuperLab fall under which category?
+   - Affect expression tools
+   - Data collection tools ✅
+   - Data mining tools
+   - Annotation tools
+
+10. SAM (Self-Assessment Manikin) is primarily used for:
+    - Image labeling
+    - Physiological signal cleaning
+    - Facial expression synthesis
+    - Measuring emotional responses along dimensions like valence and arousal ✅

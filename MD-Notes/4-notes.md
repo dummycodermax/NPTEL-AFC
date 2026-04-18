@@ -137,13 +137,83 @@
 
 ## Applications
 - Physical Pain
-- Depression and Psychological Distress
-- Deception Detection
+- Depression and Psychological Distress (Unipolar - pysho motor retardation)
+- Deception Detection (Micro expression)
 - Drowsy Driver Detection
 - In-class attention
 - Use of additional modalities
+    - Depression Voice is more prominent
+    - Facial expression used in Gallery in the mobiles
 
+## Limitation
+- Real time systems: Computational complexity
+- Illumination
+- Occlusion
+  - Self-occlusion (Heavy beard)
+  - External occlusion (Other person blocking the face)
+- Subtle facial expression (Micro expression)
+- Individual variability
+- We need better features and classifiers 
+- Ethical issues
+  - Fairness
+  - Accountability
+  - Transparency
 
+### Assignement
+1. Which input modality is considered the most informative and non-intrusive for Facial Emotion Recognition (FER)?
+   - EMG
+   - Camera ✅
+   - EEG
+   - Earables
 
+2. Dynamic FER generally outperforms static FER because it:
+   - Uses more sensors
+   - Ignores temporal variations
+   - Captures expression transitions over time ✅
+   - Removes noise from peak frames
 
+3. The first step in conventional FER pipelines typically involves:
+   - Expression classification
+   - Texture smoothing
+   - Face and facial component detection ✅
+   - Motion estimation
 
+4. Deep-learning-based FER systems reduce reliance on:
+   - Face-physics-based models and preprocessing ✅
+   - Landmark detectors
+   - Data augmentation
+   - GPU resources
+
+5. Macro expressions typically last:
+   - Less than 1/2 second
+   - 5–10 seconds
+   - Longer than 10 seconds
+   - Between 1/2 and 4 seconds ✅
+
+6. Micro expressions are difficult to detect because they:
+   - Last longer than macro expressions
+   - Are consciously controlled
+   - Are brief and often involuntary ✅
+   - Do not involve facial muscles
+
+7. Facial Action Coding System (FACS) is based on:
+   - Facial muscle movements ✅
+   - Wrinkle depth measurements
+   - Tracking head pose only
+   - Eye aperture changes exclusively
+
+   1. Which appearance-based feature descriptor is sensitive to lighting variations?
+   - SIFT
+   - Raw pixel intensity values ✅
+   - Gabor filters
+   - HOG
+
+8. Optical flow is primarily used to extract:
+   - Static shape features
+   - Texture gradients
+   - Motion-based features ✅
+   - High-resolution appearance cues
+
+9.  Geometric features alone are sometimes insufficient because different AUs can produce similar landmark changes.
+    - True ✅
+    - False
