@@ -1,6 +1,6 @@
-# Affective Computing - Week 7
+# Affective Computing - Week 7 & 8
 
-> Lecture 1 - Physiological Signals
+> Week 7 Lecture 1 - Physiological Signals [AND] Week 8 Lecture 1 & 2
 
 - Physiological Signals
 - Heart Rate and Emotions
@@ -93,6 +93,85 @@ RMSSD = sqrt(mean{(RR1 - RR2)^2 + (RR2 - RR3)^2 + ... + (RRn-1 - RRn)^2})
     - Beta (13-25Hz) - Active thinking, concentration
     - Gamma (30-100Hz) - High-level cognitive processing
 - Since electordes are placed on the scalp, they are not able to capture the electrical activity of the brain accurately from the deeper parts
+
+> Week 8 Lecture 3 - Multimodal Affect Detection
+
+## Multimodal Affect Detection
+- Multiple Models -> Richer representation -> More accurate inference and expression
+- Each modality should provide unique information
+- Less Redundancy 
+- Classifiers and fusion methods that better capture the relationships between different modalities
+- Affective corpora that contains adequate samples of sync expression
+- Improvements are still often relatively modest
+- Feature selection, uniqueness and how much info each of them provide about the expressed emotion
+
+## Data collection
+- Affective stimuli should be labeled simultaneously for all the modalities available to the coder (audio + video) rather then considering the single modalities 
+
+## Feature Extraction
+- Video processing (25fps, GSR 16Hz, EEG 128Hz)
+- Sync is required
+- Normalize them
+- Highly correlated info should be reducced individually per modality
+- Secondary optimization can lead to further improvements reducing cross modal redundancy
+
+## Fusion methods
+- Early fusion
+- Late fusion
+- Hybrid fusion
+
+## Early fusion
+- Concatenate features from all modalities
+- Train a single classifier
+- Simple and computationally efficient
+- Can capture cross-modal interactions
+- Sensitive to missing data
+- May not perform well if modalities have different information content
+- More challenging is more features and of different types
+
+## Late fusion
+- Train separate classifiers for each modality
+- Combine classifier outputs
+- Robust to missing data
+- Can handle different feature types
+- May not capture cross-modal interactions
+- May not perform well if modalities have different information content
+- Soft level - Measure of confidence is assiciated with the decisions
+- Hard level - Combining mechanism operates on single hypothesis
+
+## Slow fusion
+- Combine early and late fusion
+- Train separate classifiers for each modality
+- Combine classifier outputs
+- Robust to missing data
+- Can capture cross-modal interactions
+- May not perform well if modalities have different information content
+
+## SEMAINE
+- Sensitive Artificial Listener for Emotion and Narrative Intelligence through Incremental Multimodal Expression
+- Aims to engage the user and create an emotional workout by paying attention to the users non verbal expression and reacting accordingly
+- Frames, millisecond, second, minute
+- Real time prediction requires longer term monitoring
+- Reliable prediction accuracy requrires longer context dependent
+- Spontaneous data audio visual interaction between human and an operator undertaking the role of avatar
+- Prudence (Tempered and sensible)
+- Poppy (Happy and outgoing)
+- Spike (Angry and Confrontational)
+- Obadiah (Sad and depressive)
+- Annotated by 2 to 8 raters in 4D in continous time and value
+
+## Feature level fusion
+- Video based emotion recognition Deeply Supervised neural networks
+- Multiple kernel learning for Emotion recognition in the wild
+
+## Decision level fusion
+- Multi-feature based emotion recongnition for video clips
+- Group level emotion recognition sing Hybrid Deep models based on faces, scenes, skeletons and visual attentions
+- Mutliple spatio temploral feature learning for video based emotion recognition in the wild
+---
+- Audio/Visual emotion challegne
+- AVEC challenge for benchmarking
+- Fusion - Sensors
 
 ## Assignment - week 7
 1. Physiological signals are especially valuable in affect detection because they
