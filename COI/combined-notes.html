@@ -3,364 +3,433 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>COI Combined Notes - M1, M2, M3</title>
+  <title>COI Combined Notes — M1, M2, M3</title>
   <style>
+    /* shadcn/ui inspired tokens (zinc dark theme) */
     :root {
       color-scheme: dark;
-      --bg: #09090b;
-      --bg-2: #0f0f11;
-      --card: #18181b;
-      --card-2: #1f1f23;
-      --text: #fafafa;
-      --muted: #a1a1aa;
-      --line: rgba(244, 244, 245, 0.12);
-      --accent: #f4f4f5;
-      --accent-2: #d4d4d8;
-      --good: #d4d4d8;
-      --warn: #d4d4d8;
-      --shadow: 0 20px 60px rgba(0, 0, 0, 0.55);
-      --radius: 16px;
-      --radius-lg: 20px;
-      --radius-xl: 26px;
-      --radius-2xl: 32px;
+      --background: 240 10% 3.9%;
+      --foreground: 0 0% 98%;
+      --card: 240 10% 3.9%;
+      --card-foreground: 0 0% 98%;
+      --primary: 0 0% 98%;
+      --primary-foreground: 240 5.9% 10%;
+      --secondary: 240 3.7% 15.9%;
+      --secondary-foreground: 0 0% 98%;
+      --muted: 240 3.7% 15.9%;
+      --muted-foreground: 240 5% 64.9%;
+      --border: 240 3.7% 15.9%;
+      --ring: 240 4.9% 83.9%;
+      --radius: 0.5rem;
     }
 
-    * {
-      box-sizing: border-box;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
 
     body {
       margin: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background:
-        radial-gradient(circle at top right, rgba(244, 244, 245, 0.06), transparent 35%),
-        radial-gradient(circle at top left, rgba(244, 244, 245, 0.04), transparent 30%),
-        var(--bg);
-      color: var(--text);
+      font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+        "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+      background: hsl(var(--background));
+      color: hsl(var(--foreground));
       min-height: 100vh;
-    }
-
-    .shell {
-      width: min(1280px, calc(100% - 24px));
-      margin: 0 auto;
-      padding: 20px 0 56px;
-    }
-
-    .hero {
-      position: sticky;
-      top: 0;
-      z-index: 10;
-      backdrop-filter: blur(18px);
-      background: rgba(9, 9, 11, 0.86);
-      border: 1px solid var(--line);
-      border-radius: var(--radius-2xl);
-      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
-      padding: 24px 24px 20px;
-      margin-bottom: 18px;
-    }
-
-    .hero h1 {
-      margin: 0;
-      font-size: clamp(1.6rem, 3vw, 2.5rem);
-      line-height: 1.1;
-      letter-spacing: -0.04em;
-    }
-
-    .hero p {
-      margin: 10px 0 0;
-      color: var(--muted);
-      max-width: 78ch;
+      font-feature-settings: "rlig" 1, "calt" 1;
+      -webkit-font-smoothing: antialiased;
       line-height: 1.6;
     }
 
-    .chips {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
+    .shell {
+      width: min(1100px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 24px 0 64px;
     }
 
-    .chip {
+    /* ---------- Minimal sticky tabs ---------- */
+    .nav {
+      position: sticky;
+      top: 16px;
+      z-index: 20;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 24px;
+      pointer-events: none; /* let clicks pass except on the tabs */
+    }
+
+    .tabs {
       display: inline-flex;
       align-items: center;
-      gap: 8px;
-      padding: 10px 50px;
-      border-radius: 10px;
-      border: 1px solid var(--line);
-      background: rgba(244, 244, 245, 0.04);
-      color: var(--text);
+      gap: 4px;
+      padding: 4px;
+      background: hsl(var(--muted) / 0.85);
+      backdrop-filter: blur(12px) saturate(180%);
+      -webkit-backdrop-filter: blur(12px) saturate(180%);
+      border: 1px solid hsl(var(--border));
+      border-radius: var(--radius);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+      pointer-events: auto;
+    }
+
+    .tab {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 6px 20px;
+      border-radius: calc(var(--radius) - 2px);
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: hsl(var(--muted-foreground));
       text-decoration: none;
-      font-weight: 600;
-      transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+      transition: all 0.15s ease;
+      border: 1px solid transparent;
+      min-width: 64px;
     }
 
-    .chip:hover {
-      transform: translateY(-1px);
-      border-color: rgba(244, 244, 245, 0.28);
-      background: rgba(244, 244, 245, 0.06);
+    .tab:hover {
+      color: hsl(var(--foreground));
     }
 
+    .tab.active {
+      background: hsl(var(--background));
+      color: hsl(var(--foreground));
+      border-color: hsl(var(--border));
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+    }
+
+    /* ---------- Cards ---------- */
     .grid {
       display: grid;
       grid-template-columns: 1fr;
-      gap: 18px;
+      gap: 20px;
     }
 
     .note-card {
-      border: 1px solid var(--line);
-      background: linear-gradient(180deg, rgba(24, 24, 27, 0.98), rgba(12, 12, 14, 0.98));
-      border-radius: var(--radius-2xl);
-      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.4);
+      border: 1px solid hsl(var(--border));
+      background: hsl(var(--card));
+      color: hsl(var(--card-foreground));
+      border-radius: calc(var(--radius) + 4px);
       overflow: hidden;
+      transition: border-color 0.2s ease;
+    }
+
+    .note-card:hover {
+      border-color: hsl(var(--border) / 1.5);
     }
 
     .note-head {
       display: flex;
-      flex-wrap: wrap;
-      gap: 12px;
+      flex-direction: column;
+      gap: 6px;
+      padding: 24px 24px 20px;
+      border-bottom: 1px solid hsl(var(--border));
+    }
+
+    .note-head-row {
+      display: flex;
       align-items: center;
-      justify-content: space-between;
-      padding: 18px 20px;
-      border-bottom: 1px solid var(--line);
-      background: rgba(24, 24, 27, 0.8);
+      gap: 10px;
+      flex-wrap: wrap;
     }
 
     .note-title {
       margin: 0;
-      font-size: clamp(1.2rem, 2vw, 1.55rem);
-      letter-spacing: -0.02em;
+      font-size: 1.5rem;
+      font-weight: 600;
+      letter-spacing: -0.025em;
+      line-height: 1.2;
     }
 
     .note-meta {
-      color: var(--muted);
-      font-size: 0.95rem;
+      color: hsl(var(--muted-foreground));
+      font-size: 0.875rem;
+      line-height: 1.5;
+      margin: 0;
+    }
+
+    .module-badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 9px;
+      border-radius: calc(var(--radius) - 2px);
+      background: hsl(var(--primary));
+      color: hsl(var(--primary-foreground));
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
     }
 
     .note-content {
-      padding: 18px 20px 26px;
-      line-height: 1.75;
-      color: var(--text);
+      padding: 24px;
+      font-size: 0.95rem;
+      line-height: 1.7;
     }
 
+    /* Prose typography */
     .note-content h1,
     .note-content h2,
     .note-content h3,
     .note-content h4 {
-      line-height: 1.25;
       letter-spacing: -0.02em;
-      margin-top: 1.35em;
-      margin-bottom: 0.65em;
+      font-weight: 600;
+      line-height: 1.3;
+      color: hsl(var(--foreground));
     }
 
     .note-content h1 {
-      color: var(--accent);
-      font-size: 1.8rem;
+      font-size: 1.75rem;
+      margin: 1.6em 0 0.6em;
+      font-weight: 700;
+      letter-spacing: -0.03em;
     }
 
     .note-content h2 {
-      color: var(--accent);
-      font-size: 1.4rem;
-      padding-bottom: 0.25rem;
-      border-bottom: 1px solid rgba(244, 244, 245, 0.18);
+      font-size: 1.35rem;
+      margin: 1.6em 0 0.6em;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px solid hsl(var(--border));
     }
 
     .note-content h3 {
-      color: var(--accent-2);
-      font-size: 1.15rem;
+      font-size: 1.1rem;
+      margin: 1.4em 0 0.5em;
     }
 
     .note-content h4 {
-      color: var(--accent-2);
-      font-size: 1rem;
-      text-transform: none;
-    }
-
-    .note-content p,
-    .note-content li {
-      color: var(--text);
+      font-size: 0.95rem;
+      margin: 1.2em 0 0.4em;
+      color: hsl(var(--muted-foreground));
     }
 
     .note-content p {
-      margin: 0.45rem 0 0.9rem;
+      margin: 0.6em 0 1em;
+      color: hsl(var(--foreground) / 0.9);
     }
 
     .note-content ul,
     .note-content ol {
-      padding-left: 1.35rem;
-      margin: 0.35rem 0 1rem;
+      padding-left: 1.5rem;
+      margin: 0.5em 0 1em;
     }
 
     .note-content li {
-      margin: 0.3rem 0;
+      margin: 0.35em 0;
+      color: hsl(var(--foreground) / 0.9);
+    }
+
+    .note-content li::marker {
+      color: hsl(var(--muted-foreground));
     }
 
     .note-content strong {
-      color: #fff;
+      color: hsl(var(--foreground));
+      font-weight: 600;
     }
 
     .note-content em {
-      color: var(--accent);
+      color: hsl(var(--foreground));
+      font-style: italic;
     }
 
     .note-content blockquote {
-      margin: 1rem 0;
-      padding: 0.9rem 1rem;
-      border-left: 4px solid var(--accent);
-      background: rgba(24, 24, 27, 0.7);
-      color: var(--accent);
-      border-radius: 0 16px 16px 0;
+      margin: 1.2em 0;
+      padding: 0.75rem 1.1rem;
+      border-left: 2px solid hsl(var(--border));
+      background: hsl(var(--muted) / 0.4);
+      color: hsl(var(--muted-foreground));
+      border-radius: 0 var(--radius) var(--radius) 0;
+      font-style: italic;
+    }
+
+    .note-content blockquote strong {
+      color: hsl(var(--foreground));
     }
 
     .note-content hr {
       border: 0;
       height: 1px;
-      margin: 1.5rem 0;
-      background: linear-gradient(90deg, transparent, rgba(244, 244, 245, 0.28), transparent);
+      margin: 2rem 0;
+      background: hsl(var(--border));
     }
 
     .note-content table {
       width: 100%;
       border-collapse: collapse;
-      margin: 1rem 0 1.25rem;
+      margin: 1.2em 0;
+      font-size: 0.9rem;
+      border: 1px solid hsl(var(--border));
+      border-radius: var(--radius);
       overflow: hidden;
-      border-radius: 16px;
-      border: 1px solid var(--line);
     }
 
     .note-content th,
     .note-content td {
-      padding: 0.75rem 0.9rem;
-      border-bottom: 1px solid var(--line);
+      padding: 0.65rem 0.85rem;
+      border-bottom: 1px solid hsl(var(--border));
       text-align: left;
       vertical-align: top;
     }
 
     .note-content th {
-      background: rgba(244, 244, 245, 0.08);
-      color: #fafafa;
-      font-weight: 700;
+      background: hsl(var(--muted));
+      color: hsl(var(--foreground));
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+
+    .note-content tr:last-child td {
+      border-bottom: 0;
     }
 
     .note-content tr:nth-child(even) td {
-      background: rgba(255, 255, 255, 0.02);
+      background: hsl(var(--muted) / 0.3);
     }
 
     .note-content code {
-      padding: 0.15rem 0.35rem;
-      border-radius: 8px;
-      background: rgba(255, 255, 255, 0.08);
-      color: #f8fafc;
-      font-size: 0.95em;
+      padding: 0.15rem 0.4rem;
+      border-radius: calc(var(--radius) - 2px);
+      background: hsl(var(--muted));
+      color: hsl(var(--foreground));
+      font-size: 0.85em;
+      font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+      border: 1px solid hsl(var(--border));
     }
 
     .note-content pre {
       overflow: auto;
       padding: 1rem;
-      border-radius: 16px;
-      background: #0b0b0d;
-      border: 1px solid rgba(244, 244, 245, 0.1);
+      border-radius: var(--radius);
+      background: hsl(var(--muted) / 0.5);
+      border: 1px solid hsl(var(--border));
+      font-size: 0.85rem;
+    }
+
+    .note-content pre code {
+      background: transparent;
+      border: 0;
+      padding: 0;
     }
 
     .note-content a {
-      color: #e4e4e7;
+      color: hsl(var(--foreground));
+      text-decoration: underline;
+      text-decoration-color: hsl(var(--muted-foreground));
+      text-underline-offset: 3px;
+      transition: text-decoration-color 0.15s;
     }
 
-    .footer {
-      color: var(--muted);
-      text-align: center;
-      margin-top: 22px;
-      font-size: 0.95rem;
+    .note-content a:hover {
+      text-decoration-color: hsl(var(--foreground));
     }
 
-    .status {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      padding: 8px 12px;
-      border-radius: 999px;
-      background: rgba(24, 24, 27, 0.9);
-      border: 1px solid rgba(244, 244, 245, 0.18);
-      color: #fafafa;
-      font-size: 0.92rem;
-      font-weight: 600;
-    }
-
-    .status-dot {
-      width: 10px;
-      height: 10px;
-      border-radius: 50%;
-      background: #e4e4e7;
-      box-shadow: 0 0 16px rgba(244, 244, 245, 0.4);
-    }
-
+    /* Plain-text rendering (for the .txt fetch) */
     .note-pre {
       white-space: pre-wrap;
       word-break: break-word;
-      font-family: "Segoe UI", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      font-family: inherit;
+      font-size: 0.9rem;
+      line-height: 1.7;
       margin: 0;
-      background: rgba(10, 10, 11, 0.6);
-      border: 1px solid rgba(244, 244, 245, 0.08);
+      background: hsl(var(--muted) / 0.4);
+      border: 1px solid hsl(var(--border));
       padding: 18px;
-      border-radius: var(--radius-lg);
+      border-radius: var(--radius);
+      color: hsl(var(--foreground) / 0.9);
     }
 
-    @media (max-width: 760px) {
-      .shell {
-        width: min(100% - 16px, 1280px);
-        padding-top: 10px;
-      }
+    /* Error state — Alert/destructive component */
+    .alert-destructive {
+      padding: 12px 16px;
+      border: 1px solid hsl(0 62.8% 30.6%);
+      background: hsl(0 62.8% 30.6% / 0.15);
+      color: hsl(0 0% 98%);
+      border-radius: var(--radius);
+      font-size: 0.875rem;
+    }
 
-      .hero,
+    .alert-destructive strong {
+      display: block;
+      margin-bottom: 4px;
+      font-weight: 600;
+    }
+
+    .alert-destructive span {
+      color: hsl(var(--muted-foreground));
+      font-size: 0.825rem;
+    }
+
+    /* ---------- Footer ---------- */
+    .footer {
+      color: hsl(var(--muted-foreground));
+      text-align: center;
+      margin-top: 32px;
+      font-size: 0.8rem;
+      padding: 16px;
+      border-top: 1px solid hsl(var(--border));
+    }
+
+    /* ---------- Responsive ---------- */
+    @media (max-width: 640px) {
+      .shell {
+        padding: 16px 0 40px;
+      }
+      .nav {
+        top: 8px;
+      }
       .note-head,
       .note-content {
-        padding-left: 16px;
-        padding-right: 16px;
+        padding: 18px;
       }
-
-      .hero {
-        border-radius: var(--radius-lg);
+      .note-title {
+        font-size: 1.25rem;
       }
-
-      .note-card {
-        border-radius: var(--radius-lg);
+      .tab {
+        padding: 6px 14px;
+        font-size: 0.825rem;
+        min-width: 0;
       }
     }
   </style>
 </head>
 <body>
   <main class="shell">
-    <header class="hero">
-      <nav class="chips" aria-label="Quick navigation">
-        <a class="chip" href="#m1">M1</a>
-        <a class="chip" href="#m2">M2</a>
-        <a class="chip" href="#m3">M3</a>
-      </nav>
-    </header>
+    <nav class="nav" aria-label="Module navigation">
+      <div class="tabs" role="tablist">
+        <a class="tab" href="#m1" role="tab">M1</a>
+        <a class="tab" href="#m2" role="tab">M2</a>
+        <a class="tab" href="#m3" role="tab">M3</a>
+      </div>
+    </nav>
 
     <section class="grid">
       <article class="note-card" id="m1">
         <div class="note-head">
-          <h2 class="note-title">M1</h2>
-          <div class="note-meta">Foundations, path to the Constitution, Constituent Assembly, and key trivia</div>
+          <div class="note-head-row">
+            <span class="module-badge">Module 01</span>
+            <h2 class="note-title">Foundations of the Constitution</h2>
+          </div>
+          <p class="note-meta">Foundations, path to the Constitution, Constituent Assembly, and key trivia.</p>
         </div>
         <div class="note-content" data-source="M1.txt"></div>
       </article>
 
       <article class="note-card" id="m2">
         <div class="note-head">
-          <h2 class="note-title">M2</h2>
-          <div class="note-meta">Preamble terms, constitutional features, rights, duties, DPSP, and institutions</div>
+          <div class="note-head-row">
+            <span class="module-badge">Module 02</span>
+            <h2 class="note-title">Preamble, Features &amp; Institutions</h2>
+          </div>
+          <p class="note-meta">Preamble terms, constitutional features, rights, duties, DPSP, and institutions.</p>
         </div>
         <div class="note-content" data-source="M2.txt"></div>
       </article>
 
       <article class="note-card" id="m3">
         <div class="note-head">
-          <h2 class="note-title">M3</h2>
-          <div class="note-meta">Fundamental Rights articles, rule of law, article-wise explanations, and writs</div>
+          <div class="note-head-row">
+            <span class="module-badge">Module 03</span>
+            <h2 class="note-title">Fundamental Rights &amp; Writs</h2>
+          </div>
+          <p class="note-meta">Fundamental Rights articles, rule of law, article-wise explanations, and writs.</p>
         </div>
         <div class="note-content" data-source="M3.txt"></div>
       </article>
@@ -386,12 +455,40 @@
           block.innerHTML = '';
           block.appendChild(pre);
         } catch (error) {
-          block.innerHTML = `<blockquote><strong>Unable to load ${source}.</strong><br />${error.message}</blockquote>`;
+          block.innerHTML = `
+            <div class="alert-destructive" role="alert">
+              <strong>Unable to load ${source}</strong>
+              <span>${error.message}</span>
+            </div>`;
         }
       }
     }
 
+    function setupTabs() {
+      const tabs = document.querySelectorAll('.tab');
+      const sections = Array.from(tabs).map(t => document.querySelector(t.getAttribute('href')));
+
+      const activate = (id) => {
+        tabs.forEach(t => t.classList.toggle('active', t.getAttribute('href') === `#${id}`));
+      };
+
+      if (sections[0]) activate(sections[0].id);
+
+      const obs = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+          if (e.isIntersecting) activate(e.target.id);
+        });
+      }, { rootMargin: '-40% 0px -55% 0px', threshold: 0 });
+
+      sections.forEach(s => s && obs.observe(s));
+
+      tabs.forEach(t => t.addEventListener('click', () => {
+        activate(t.getAttribute('href').slice(1));
+      }));
+    }
+
     loadNotes();
+    setupTabs();
   </script>
 </body>
 </html>
