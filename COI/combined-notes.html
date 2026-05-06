@@ -1,0 +1,397 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>COI Combined Notes - M1, M2, M3</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #09090b;
+      --bg-2: #0f0f11;
+      --card: #18181b;
+      --card-2: #1f1f23;
+      --text: #fafafa;
+      --muted: #a1a1aa;
+      --line: rgba(244, 244, 245, 0.12);
+      --accent: #f4f4f5;
+      --accent-2: #d4d4d8;
+      --good: #d4d4d8;
+      --warn: #d4d4d8;
+      --shadow: 0 20px 60px rgba(0, 0, 0, 0.55);
+      --radius: 16px;
+      --radius-lg: 20px;
+      --radius-xl: 26px;
+      --radius-2xl: 32px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background:
+        radial-gradient(circle at top right, rgba(244, 244, 245, 0.06), transparent 35%),
+        radial-gradient(circle at top left, rgba(244, 244, 245, 0.04), transparent 30%),
+        var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    .shell {
+      width: min(1280px, calc(100% - 24px));
+      margin: 0 auto;
+      padding: 20px 0 56px;
+    }
+
+    .hero {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      backdrop-filter: blur(18px);
+      background: rgba(9, 9, 11, 0.86);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-2xl);
+      box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+      padding: 24px 24px 20px;
+      margin-bottom: 18px;
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-size: clamp(1.6rem, 3vw, 2.5rem);
+      line-height: 1.1;
+      letter-spacing: -0.04em;
+    }
+
+    .hero p {
+      margin: 10px 0 0;
+      color: var(--muted);
+      max-width: 78ch;
+      line-height: 1.6;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 50px;
+      border-radius: 10px;
+      border: 1px solid var(--line);
+      background: rgba(244, 244, 245, 0.04);
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+      transition: transform 0.18s ease, border-color 0.18s ease, background 0.18s ease;
+    }
+
+    .chip:hover {
+      transform: translateY(-1px);
+      border-color: rgba(244, 244, 245, 0.28);
+      background: rgba(244, 244, 245, 0.06);
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+    }
+
+    .note-card {
+      border: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(24, 24, 27, 0.98), rgba(12, 12, 14, 0.98));
+      border-radius: var(--radius-2xl);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.4);
+      overflow: hidden;
+    }
+
+    .note-head {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      justify-content: space-between;
+      padding: 18px 20px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(24, 24, 27, 0.8);
+    }
+
+    .note-title {
+      margin: 0;
+      font-size: clamp(1.2rem, 2vw, 1.55rem);
+      letter-spacing: -0.02em;
+    }
+
+    .note-meta {
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .note-content {
+      padding: 18px 20px 26px;
+      line-height: 1.75;
+      color: var(--text);
+    }
+
+    .note-content h1,
+    .note-content h2,
+    .note-content h3,
+    .note-content h4 {
+      line-height: 1.25;
+      letter-spacing: -0.02em;
+      margin-top: 1.35em;
+      margin-bottom: 0.65em;
+    }
+
+    .note-content h1 {
+      color: var(--accent);
+      font-size: 1.8rem;
+    }
+
+    .note-content h2 {
+      color: var(--accent);
+      font-size: 1.4rem;
+      padding-bottom: 0.25rem;
+      border-bottom: 1px solid rgba(244, 244, 245, 0.18);
+    }
+
+    .note-content h3 {
+      color: var(--accent-2);
+      font-size: 1.15rem;
+    }
+
+    .note-content h4 {
+      color: var(--accent-2);
+      font-size: 1rem;
+      text-transform: none;
+    }
+
+    .note-content p,
+    .note-content li {
+      color: var(--text);
+    }
+
+    .note-content p {
+      margin: 0.45rem 0 0.9rem;
+    }
+
+    .note-content ul,
+    .note-content ol {
+      padding-left: 1.35rem;
+      margin: 0.35rem 0 1rem;
+    }
+
+    .note-content li {
+      margin: 0.3rem 0;
+    }
+
+    .note-content strong {
+      color: #fff;
+    }
+
+    .note-content em {
+      color: var(--accent);
+    }
+
+    .note-content blockquote {
+      margin: 1rem 0;
+      padding: 0.9rem 1rem;
+      border-left: 4px solid var(--accent);
+      background: rgba(24, 24, 27, 0.7);
+      color: var(--accent);
+      border-radius: 0 16px 16px 0;
+    }
+
+    .note-content hr {
+      border: 0;
+      height: 1px;
+      margin: 1.5rem 0;
+      background: linear-gradient(90deg, transparent, rgba(244, 244, 245, 0.28), transparent);
+    }
+
+    .note-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0 1.25rem;
+      overflow: hidden;
+      border-radius: 16px;
+      border: 1px solid var(--line);
+    }
+
+    .note-content th,
+    .note-content td {
+      padding: 0.75rem 0.9rem;
+      border-bottom: 1px solid var(--line);
+      text-align: left;
+      vertical-align: top;
+    }
+
+    .note-content th {
+      background: rgba(244, 244, 245, 0.08);
+      color: #fafafa;
+      font-weight: 700;
+    }
+
+    .note-content tr:nth-child(even) td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+
+    .note-content code {
+      padding: 0.15rem 0.35rem;
+      border-radius: 8px;
+      background: rgba(255, 255, 255, 0.08);
+      color: #f8fafc;
+      font-size: 0.95em;
+    }
+
+    .note-content pre {
+      overflow: auto;
+      padding: 1rem;
+      border-radius: 16px;
+      background: #0b0b0d;
+      border: 1px solid rgba(244, 244, 245, 0.1);
+    }
+
+    .note-content a {
+      color: #e4e4e7;
+    }
+
+    .footer {
+      color: var(--muted);
+      text-align: center;
+      margin-top: 22px;
+      font-size: 0.95rem;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 999px;
+      background: rgba(24, 24, 27, 0.9);
+      border: 1px solid rgba(244, 244, 245, 0.18);
+      color: #fafafa;
+      font-size: 0.92rem;
+      font-weight: 600;
+    }
+
+    .status-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #e4e4e7;
+      box-shadow: 0 0 16px rgba(244, 244, 245, 0.4);
+    }
+
+    .note-pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      font-family: "Segoe UI", Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      margin: 0;
+      background: rgba(10, 10, 11, 0.6);
+      border: 1px solid rgba(244, 244, 245, 0.08);
+      padding: 18px;
+      border-radius: var(--radius-lg);
+    }
+
+    @media (max-width: 760px) {
+      .shell {
+        width: min(100% - 16px, 1280px);
+        padding-top: 10px;
+      }
+
+      .hero,
+      .note-head,
+      .note-content {
+        padding-left: 16px;
+        padding-right: 16px;
+      }
+
+      .hero {
+        border-radius: var(--radius-lg);
+      }
+
+      .note-card {
+        border-radius: var(--radius-lg);
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <nav class="chips" aria-label="Quick navigation">
+        <a class="chip" href="#m1">M1</a>
+        <a class="chip" href="#m2">M2</a>
+        <a class="chip" href="#m3">M3</a>
+      </nav>
+    </header>
+
+    <section class="grid">
+      <article class="note-card" id="m1">
+        <div class="note-head">
+          <h2 class="note-title">M1</h2>
+          <div class="note-meta">Foundations, path to the Constitution, Constituent Assembly, and key trivia</div>
+        </div>
+        <div class="note-content" data-source="M1.txt"></div>
+      </article>
+
+      <article class="note-card" id="m2">
+        <div class="note-head">
+          <h2 class="note-title">M2</h2>
+          <div class="note-meta">Preamble terms, constitutional features, rights, duties, DPSP, and institutions</div>
+        </div>
+        <div class="note-content" data-source="M2.txt"></div>
+      </article>
+
+      <article class="note-card" id="m3">
+        <div class="note-head">
+          <h2 class="note-title">M3</h2>
+          <div class="note-meta">Fundamental Rights articles, rule of law, article-wise explanations, and writs</div>
+        </div>
+        <div class="note-content" data-source="M3.txt"></div>
+      </article>
+    </section>
+
+    <div class="footer">Open this page with a local server or GitHub Pages for file loading to work correctly.</div>
+  </main>
+
+  <script>
+    async function loadNotes() {
+      const blocks = document.querySelectorAll('[data-source]');
+      for (const block of blocks) {
+        const source = block.getAttribute('data-source');
+        try {
+          const response = await fetch(source);
+          if (!response.ok) {
+            throw new Error(`Failed to load ${source}: ${response.status}`);
+          }
+          const text = await response.text();
+          const pre = document.createElement('pre');
+          pre.className = 'note-pre';
+          pre.textContent = text;
+          block.innerHTML = '';
+          block.appendChild(pre);
+        } catch (error) {
+          block.innerHTML = `<blockquote><strong>Unable to load ${source}.</strong><br />${error.message}</blockquote>`;
+        }
+      }
+    }
+
+    loadNotes();
+  </script>
+</body>
+</html>
